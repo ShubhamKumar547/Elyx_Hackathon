@@ -1,0 +1,19 @@
+/* src/components/Dashboard/AnalyticsView/HealthDistribution/HealthDistribution.css */
+.chart-row {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.half-width {
+  flex: 1;
+}
+
+@media (max-width: 1024px) {
+  .chart-row {
+    flex-direction: column;
+  }
+  
+  .half-width {
+    width: 100%;
+  }
+}

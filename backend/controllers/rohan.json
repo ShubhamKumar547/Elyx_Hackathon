@@ -1,0 +1,1727 @@
+{
+  "member_id": "Rohan",
+  "decisions": [
+    {
+      "id": "D001",
+      "date": "2026-01-02",
+      "author": "Ruby",
+      "category": "Diagnostics",
+      "decision": "Sent e-sign links for medical-release form and baseline questionnaire to initiate onboarding",
+      "trigger_event": "New member onboarding",
+      "reason": "Consent and intake documentation required before any clinical diagnostics or scheduling",
+      "expected_outcome": "Enable scheduling of physical exam and blood draw",
+      "source_chat": {
+        "date": "2026-01-02 07:52",
+        "excerpt": "I\u2019ve shared two e-sign links: (1) medical-release form, (2) baseline questionnaire."
+      }
+    },
+    {
+      "id": "D002",
+      "date": "2026-01-02",
+      "author": "Ruby",
+      "category": "Diagnostics",
+      "decision": "Instructed Rohan to connect Garmin data via Elyx Health for monitoring",
+      "trigger_event": "Rohan asked if Garmin data was already streaming",
+      "reason": "Continuous physiological baseline (HRV, sleep, training load) needed by performance team",
+      "expected_outcome": "Enable real-time data integration for analysis",
+      "source_chat": {
+        "date": "2026-01-02 08:06",
+        "excerpt": "Open Garmin \u2192 Settings \u2192 Data Sharing \u2192 'Elyx Health'."
+      }
+    },
+    {
+      "id": "D003",
+      "date": "2026-01-03",
+      "author": "Carla",
+      "category": "Nutrition",
+      "decision": "Requested Rohan to log 3 days of meals in MyFitnessPal",
+      "trigger_event": "Baseline nutrition intake review",
+      "reason": "Macro quality and omega-3 ratio need to be assessed before plan design",
+      "expected_outcome": "Identify imbalances and create tailored meal plan",
+      "source_chat": {
+        "date": "2026-01-03 18:30",
+        "excerpt": "Could you log everything you eat for three typical workdays in MyFitnessPal?"
+      }
+    },
+    {
+      "id": "D004",
+      "date": "2026-01-04",
+      "author": "Rachel",
+      "category": "Diagnostics",
+      "decision": "Requested short video clips of squat, reach, and plank for movement screening",
+      "trigger_event": "Physiotherapy baseline assessment",
+      "reason": "Detect movement restrictions or weaknesses before programming",
+      "expected_outcome": "Build targeted exercise programs addressing mobility deficits",
+      "source_chat": {
+        "date": "2026-01-04 06:55",
+        "excerpt": "Can you record three 15-sec clips: body-weight squat, overhead reach, and plank?"
+      }
+    },
+    {
+      "id": "D005",
+      "date": "2026-01-05",
+      "author": "Ruby",
+      "category": "Diagnostics",
+      "decision": "Scheduled blood draw (10 Jan) and physical exam with Dr Warren",
+      "trigger_event": "Rohan asked about timing of full diagnostic panel due to travel",
+      "reason": "Establish laboratory and exam baselines before travel disruption",
+      "expected_outcome": "All diagnostics completed before London trip",
+      "source_chat": {
+        "date": "2026-01-05 11:18",
+        "excerpt": "Phlebotomy is booked for Fri 10 Jan, 07:30 at Gleneagles. Physical exam with Dr Warren right after."
+      }
+    },
+    {
+      "id": "D006",
+      "date": "2026-01-06",
+      "author": "Dr Warren",
+      "category": "Diagnostics",
+      "decision": "Added ApoB, Lp(a), and coronary calcium CT",
+      "trigger_event": "Family history of premature myocardial infarction",
+      "reason": "Screen for inherited cardiovascular risk markers and early atherosclerosis",
+      "expected_outcome": "Identify elevated ApoB/Lp(a) or subclinical calcification to guide therapy decisions",
+      "source_chat": {
+        "date": "2026-01-06 20:48",
+        "excerpt": "Given your father\u2019s MI at 58, we\u2019ll add ApoB, Lp(a) and coronary-calcium CT..."
+      }
+    },
+    {
+      "id": "D007",
+      "date": "2026-01-07",
+      "author": "Advik",
+      "category": "Recovery",
+      "decision": "Advised light zone-1 jog, magnesium glycinate 500 mg, and early sleep cutoff",
+      "trigger_event": "Rohan\u2019s Garmin flagged low HRV after jet lag and caffeine",
+      "reason": "HRV suppression due to sympathetic stress needed parasympathetic recovery support",
+      "expected_outcome": "Restore baseline HRV within 48h, stabilizing recovery readiness",
+      "source_chat": {
+        "date": "2026-01-07 07:40",
+        "excerpt": "Go 20 min light zone-1 jog today, no intensity. Aim for 23:00 shutdown + 500 mg magnesium glycinate."
+      }
+    },
+    {
+      "id": "D008",
+      "date": "2026-01-11",
+      "author": "Carla",
+      "category": "Nutrition",
+      "decision": "Replace ghee with avocado oil three times per week and add chia-flax blend at breakfast",
+      "trigger_event": "Food logs showed saturated-fat heavy dinners",
+      "reason": "Lower saturated fat and improve omega-3 intake",
+      "expected_outcome": "Improve lipid balance and reduce long-term CV risk",
+      "source_chat": {
+        "date": "2026-01-11 14:16",
+        "excerpt": "Swap ghee for avocado oil 3x/week and add chia-flax mix at breakfast."
+      }
+    },
+    {
+      "id": "D009",
+      "date": "2026-01-12",
+      "author": "Rachel",
+      "category": "Exercise",
+      "decision": "Developed Programme A (hotel-friendly) and Programme B (gym-based)",
+      "trigger_event": "Baseline mobility screen revealed ankle restriction",
+      "reason": "Accommodate ankle dorsiflexion limitation while ensuring training adherence",
+      "expected_outcome": "Progressively improve mobility without compromising exercise continuity",
+      "source_chat": {
+        "date": "2026-01-12 06:40",
+        "excerpt": "Main restriction: left ankle dorsiflexion. I\u2019ll build Programme A (hotel) and Programme B (gym)."
+      }
+    },
+    {
+      "id": "D010",
+      "date": "2026-01-20",
+      "author": "Dr Warren",
+      "category": "Diagnostics",
+      "decision": "Chose lifestyle modification first for ApoB 118 with CAC score of 0; no statins",
+      "trigger_event": "Normal calcium score but borderline ApoB",
+      "reason": "Low absolute cardiovascular risk profile supports non-pharmacological approach",
+      "expected_outcome": "Lower ApoB through diet and exercise; reassess in April",
+      "source_chat": {
+        "date": "2026-01-20 07:30",
+        "excerpt": "CAC score = 0... Combined with ApoB we\u2019ll start with lifestyle; revisit in April. No statin yet."
+      }
+    },
+    {
+      "id": "D011",
+      "date": "2026-01-22",
+      "author": "Rachel",
+      "category": "Exercise",
+      "decision": "Prescribed 10-min hotel workout (air squats, push-ups, planks)",
+      "trigger_event": "Rohan skipped workout during travel",
+      "reason": "Provide easy, equipment-free routine to maintain activity consistency",
+      "expected_outcome": "Sustain adherence and assist with circadian alignment",
+      "source_chat": {
+        "date": "2026-01-22 18:18",
+        "excerpt": "Try: 3 rounds \u2013 20 air squats, 15 push-ups, 30-sec plank."
+      }
+    },
+    {
+      "id": "D012",
+      "date": "2026-01-23",
+      "author": "Carla",
+      "category": "Nutrition",
+      "decision": "Recommended poached eggs with tomatoes, avoiding bacon, plus 2 g/day Omega-3 supplementation",
+      "trigger_event": "High-sodium UK breakfast options",
+      "reason": "Reduce sodium and processed meat intake, support lipid profile with omega-3s",
+      "expected_outcome": "Decrease sodium load, support cardiovascular health during travel",
+      "source_chat": {
+        "date": "2026-01-23 05:55",
+        "excerpt": "Pick poached eggs + grilled tomatoes, skip bacon most days. Bring Omega-3 (2 g/day)."
+      }
+    },
+    {
+      "id": "D013",
+      "date": "2026-01-27",
+      "author": "Advik",
+      "category": "Sleep",
+      "decision": "Suggested doubling magnesium dose and avoiding alcohol at hotel bar",
+      "trigger_event": "Rohan had low sleep time despite stable HRV",
+      "reason": "Optimize sleep duration and recovery quality while traveling",
+      "expected_outcome": "Increase total sleep hours and improve recovery markers",
+      "source_chat": {
+        "date": "2026-01-27 07:40",
+        "excerpt": "Sleep still 5 h 50 m avg; double dose magnesium tonight + no hotel bar."
+      }
+    },
+    {
+      "id": "D014",
+      "date": "2026-01-29",
+      "author": "Rachel",
+      "category": "Therapy",
+      "decision": "Prescribed 2-min ankle floss mobility drill",
+      "trigger_event": "Rohan reported ankle stiffness after long flight",
+      "reason": "Alleviate travel-related stiffness and restore dorsiflexion",
+      "expected_outcome": "Reduce discomfort and improve ankle function pre/post-flight",
+      "source_chat": {
+        "date": "2026-01-29 13:18",
+        "excerpt": "Sent 2-min ankle floss drill. Do before bed & pre-flight tomorrow."
+      }
+    },
+    {
+      "id": "D015",
+      "date": "2026-04-10",
+      "author": "Dr Warren",
+      "category": "Medication",
+      "decision": "Initiated statin therapy (rosuvastatin 10 mg nightly)",
+      "trigger_event": "April lipid panel confirmed persistent ApoB elevation (124 mg/dL) despite lifestyle changes",
+      "reason": "Member remains at elevated long-term cardiovascular risk; pharmacological intervention indicated due to failure of lifestyle-only approach",
+      "expected_outcome": "Lower ApoB by 20\u201330% within 3 months, reducing CV risk trajectory",
+      "source_chat": {
+        "date": "2026-04-10 08:30",
+        "excerpt": "Despite lifestyle adherence, ApoB remains >120. Let\u2019s begin low-dose rosuvastatin."
+      }
+    },
+    {
+      "id": "D015",
+      "date": "2026-02-01",
+      "author": "Carla",
+      "category": "Nutrition",
+      "decision": "Limit prawn curry portion to ~120 g prawns, restrict coconut milk to \u00bc cup, and add extra steamed vegetables",
+      "trigger_event": "Rohan asked whether high saturated fat from prawn curry meal was a problem",
+      "reason": "To moderate saturated fat intake from coconut milk while still accommodating family meals",
+      "expected_outcome": "Reduced lipid load while allowing enjoyment of the meal within nutrition guidelines",
+      "source_chat": {
+        "date": "2026-02-01 08:17",
+        "excerpt": "Enjoy it! Just keep portion ~120 g prawns, limit coconut milk to \u00bc cup. Pair with extra steamed veg to dilute fat load."
+      }
+    },
+    {
+      "id": "D016",
+      "date": "2026-02-02",
+      "author": "Advik",
+      "category": "Exercise",
+      "decision": "Set Garmin HR alert at 135 bpm to maintain Zone-2 training intensity",
+      "trigger_event": "Rohan asked for a trick to avoid drifting out of Zone-2 during training",
+      "reason": "Zone drift reduces aerobic efficiency; HR alerts enforce adherence to prescribed intensity",
+      "expected_outcome": "Consistent Zone-2 training volume closer to 120 min/week target",
+      "source_chat": {
+        "date": "2026-02-02 19:34",
+        "excerpt": "Set HR alert at 135 bpm. Garmin \u2192 Activity Settings \u2192 Alerts \u2192 HR \u2192 'Custom'."
+      }
+    },
+    {
+      "id": "D017",
+      "date": "2026-02-03",
+      "author": "Rachel",
+      "category": "Exercise",
+      "decision": "Reduce load by 5 kg on suitcase carry and maintain rib cage down to correct left shoulder hiking",
+      "trigger_event": "Video analysis showed shoulder hike during suitcase carry exercise",
+      "reason": "Form correction prevents compensatory movement patterns and potential imbalance",
+      "expected_outcome": "Improved load-carrying mechanics and shoulder stability",
+      "source_chat": {
+        "date": "2026-02-03 06:50",
+        "excerpt": "During suitcase carry your left shoulder hikes. Drop weight 5 kg and keep rib cage down."
+      }
+    },
+    {
+      "id": "D018",
+      "date": "2026-02-05",
+      "author": "Carla",
+      "category": "Nutrition",
+      "decision": "At BBQ dinner: select lean beef or chicken, skip sausage/brisket, add charred cabbage, limit wine to 2 glasses",
+      "trigger_event": "Rohan requested dining guidance at Burnt Ends (smoked meats restaurant)",
+      "reason": "Smoked and fatty meats are high in sat-fat/sodium; lean cuts and vegetables reduce cardiovascular risk while allowing participation",
+      "expected_outcome": "Minimized dietary risk from social meal without serious restrictions",
+      "source_chat": {
+        "date": "2026-02-05 12:47",
+        "excerpt": "Pick lean beef or chicken, skip sausage/brisket. Add side of charred cabbage. Limit red wine to 2 glasses."
+      }
+    },
+    {
+      "id": "D019",
+      "date": "2026-02-06",
+      "author": "Ruby",
+      "category": "Recovery",
+      "decision": "Booked aisle seat with stretching room and scheduled hotel gym orientation on arrival",
+      "trigger_event": "Rohan\u2019s upcoming long-haul flight to NYC",
+      "reason": "Travel increases stiffness/fatigue; proactive seating and rapid gym orientation help adaptation",
+      "expected_outcome": "Improved circulation on flight and early re-engagement with exercise routine upon arrival",
+      "source_chat": {
+        "date": "2026-02-06 21:15",
+        "excerpt": "I\u2019ve blocked stretching aisle seat and hotel gym orientation Thu 13 Feb 07:00 (NY time)."
+      }
+    },
+    {
+      "id": "D020",
+      "date": "2026-02-07",
+      "author": "Dr Warren",
+      "category": "Recovery",
+      "decision": "Cleared light 20-min Zone-1 activity and quiet reading after migraine aura resolved",
+      "trigger_event": "Rohan experienced migraine aura after heavy wine intake",
+      "reason": "Aura resolved without neuro deficit; light recovery activity poses minimal risk while supporting recovery",
+      "expected_outcome": "Facilitated recovery without exacerbating migraine symptoms",
+      "source_chat": {
+        "date": "2026-02-07 06:40",
+        "excerpt": "If aura resolved and no neuro deficit, okay to perform light activity 20 min, read paperback under dim light."
+      }
+    },
+    {
+      "id": "D021",
+      "date": "2026-02-21",
+      "author": "Carla",
+      "category": "Nutrition",
+      "decision": "Add Omega-3 capsules at breakfast and 30 g walnuts at lunch",
+      "trigger_event": "Carla\u2019s check of dietary plan before April labs",
+      "reason": "Boost EPA/DHA and omega-3 index before lipid panel reassessment",
+      "expected_outcome": "Improved lipid markers by April diagnostics",
+      "source_chat": {
+        "date": "2026-02-21 09:14",
+        "excerpt": "Omega-3 caps at breakfast; lunchtime salad add 30 g walnuts. Let\u2019s push EPA/DHA before April test."
+      }
+    },
+    {
+      "id": "D022",
+      "date": "2026-02-22",
+      "author": "Rachel",
+      "category": "Therapy",
+      "decision": "Implemented travel recovery block with foam rolling, Zone-1 walk, and guided breathing",
+      "trigger_event": "Post-NYC travel recovery needs",
+      "reason": "Travel causes tension, fatigue, and circadian disruption; recovery block accelerates adjustment",
+      "expected_outcome": "Faster rebound in HRV, reduced stiffness, improved energy levels",
+      "source_chat": {
+        "date": "2026-02-22 08:05",
+        "excerpt": "TRAVEL RECOVERY BLOCK: 1. Foam roll 10 min 2. Zone-1 walk 20 min... 3. Guided breath 6 min."
+      }
+    },
+    {
+      "id": "D023",
+      "date": "2026-02-23",
+      "author": "Rachel",
+      "category": "Exercise",
+      "decision": "Modified Wednesday session to 12-min mobility-only option",
+      "trigger_event": "Rohan reported limited gym time due to family event",
+      "reason": "Scheduling adaptation to prevent missed workout streaks",
+      "expected_outcome": "Continued adherence despite schedule conflict",
+      "source_chat": {
+        "date": "2026-02-23 19:12",
+        "excerpt": "I\u2019ll make Wednesday a 12-min mobility-only option."
+      }
+    },
+    {
+      "id": "D024",
+      "date": "2026-02-26",
+      "author": "Rachel",
+      "category": "Exercise",
+      "decision": "Updated Programme B v2.1: swap cable pull-throughs for hip thrusts, add skipping rope conditioning (3\u00d745 sec)",
+      "trigger_event": "Feedback from NYC travel and exercise adjustment round",
+      "reason": "Home gym and travel context required substitutions; conditioning element introduced for cardiovascular variety",
+      "expected_outcome": "Program adherence sustained, improved strength and conditioning balance",
+      "source_chat": {
+        "date": "2026-02-26 06:50",
+        "excerpt": "Tweaks based on NYC feedback: - Swap cable pull-throughs \u2192 hip-thrusts... add skipping-rope 3\u00d745 sec finisher."
+      }
+    },
+    {
+      "id": "D025",
+      "date": "2026-02-28",
+      "author": "Dr Warren",
+      "category": "Medication",
+      "decision": "Consider Migraine prophylaxis (rizatriptan PRN) if aura frequency increases",
+      "trigger_event": "Rohan reported migraine aura on Feb 7; Dr Warren cleared light activity but noted need to monitor",
+      "reason": "Occasional migraine with aura likely triggered by wine; medication not prescribed yet but plan documented if recurrence escalates",
+      "expected_outcome": "Prepared intervention pathway for pharmacological migraine control if lifestyle adjustments insufficient",
+      "source_chat": {
+        "date": "2026-02-07 06:40",
+        "excerpt": "Had migraine aura this morning\u2014probably from wine last night. Safe to train?"
+      }
+    },
+    {
+      "id": "D025",
+      "date": "2026-03-03",
+      "author": "Advik",
+      "category": "Exercise",
+      "decision": "Deferred adding sprints; advised progressive load +10% weekly and add strides in April after 2 consistent Zone-2 weeks",
+      "trigger_event": "Rohan asked if he should add sprints after Garmin reported 'acute load low'",
+      "reason": "Avoid premature intensity increase and protect aerobic base progression",
+      "expected_outcome": "Steady load development, reduced injury risk, improved endurance capacity",
+      "source_chat": {
+        "date": "2026-03-03 20:22",
+        "excerpt": "Not yet. Let load build steadily: +10% each week. We\u2019ll add strides in April once Zone-2 is consistent 150 min/week for 2 straight weeks."
+      }
+    },
+    {
+      "id": "D026",
+      "date": "2026-03-04",
+      "author": "Carla",
+      "category": "Nutrition",
+      "decision": "Added 5 g psyllium husk to breakfast smoothie",
+      "trigger_event": "Chef submitted meal photos; Carla reviewed LDL reduction strategies",
+      "reason": "Dietary soluble fiber reduces LDL-C by ~5\u20137% with regular intake",
+      "expected_outcome": "Lower LDL-C and ApoB by April blood panel",
+      "source_chat": {
+        "date": "2026-03-04 18:30",
+        "excerpt": "Next tweak: add 5 g psyllium husk to breakfast smoothie for LDL reduction."
+      }
+    },
+    {
+      "id": "D027",
+      "date": "2026-03-05",
+      "author": "Rachel",
+      "category": "Exercise",
+      "decision": "Progressed goblet squat to front-rack kettlebell squat",
+      "trigger_event": "Ankle dorsiflexion retest showed +5\u00b0 improvement",
+      "reason": "Mobility gain enabled safe increase in resistance demands",
+      "expected_outcome": "Stronger lower-body stimulus while maintaining correct form",
+      "source_chat": {
+        "date": "2026-03-05 07:25",
+        "excerpt": "Ankle dorsiflexion re-test: +5 \u00b0. Nice! I\u2019ll progress goblet squat to front-rack kettlebell next cycle."
+      }
+    },
+    {
+      "id": "D028",
+      "date": "2026-03-10",
+      "author": "Dr Warren",
+      "category": "Recovery",
+      "decision": "Permitted light Zone-1 training if only above-the-neck symptoms; restricted heavy lifting until 24 h symptom-free",
+      "trigger_event": "Rohan reported minor sore throat and asked if safe to train",
+      "reason": "Mild upper-respiratory symptoms do not contraindicate light aerobic activity, but intense exercise may worsen illness",
+      "expected_outcome": "Maintain physical activity safely while preventing symptom exacerbation",
+      "source_chat": {
+        "date": "2026-03-10 07:06",
+        "excerpt": "If temp <37.8 \u00b0C and symptoms above the neck only, light Zone-1 okay. No heavy lifting until 24 h symptom-free."
+      }
+    },
+    {
+      "id": "D029",
+      "date": "2026-03-12",
+      "author": "Rachel",
+      "category": "Exercise",
+      "decision": "Introduced Programme C v1.0 (front-rack squat, single-leg RDL, half-kneel landmine press, core dead-bug pallof hold), with hotel-band variant auto-loaded for travel",
+      "trigger_event": "Video feedback and mobility score updates",
+      "reason": "Training plan upgraded to match mobility improvements and ensure portability during travel weeks",
+      "expected_outcome": "Enhanced strength, balance, and core stability, sustainable during travel",
+      "source_chat": {
+        "date": "2026-03-12 07:02",
+        "excerpt": "Changes driven by video feedback & new mobility scores... Hotel-band variant auto-loads when 'Travel' tag is on."
+      }
+    },
+    {
+      "id": "D030",
+      "date": "2026-03-13",
+      "author": "Carla",
+      "category": "Nutrition",
+      "decision": "For alcohol intake (2 IPAs), advised hydration 500 ml, 300 mg magnesium before bed, and +1 g Omega-3 at breakfast",
+      "trigger_event": "Rohan reported having 2 beers at social event",
+      "reason": "Mitigate inflammatory and oxidative effects of alcohol, reduce HRV dip",
+      "expected_outcome": "Limit recovery disruption from minor alcohol intake",
+      "source_chat": {
+        "date": "2026-03-13 22:50",
+        "excerpt": "Hydrate 500 ml water + 300 mg magnesium; extra 1 g Omega-3 at breakfast."
+      }
+    },
+    {
+      "id": "D031",
+      "date": "2026-03-16",
+      "author": "Rachel",
+      "category": "Therapy",
+      "decision": "Prescribed thoracic extension foam-roller and thread-the-needle stretch",
+      "trigger_event": "Rohan reported tight upper back after landmine press",
+      "reason": "Address thoracic stiffness following pressing exercises",
+      "expected_outcome": "Relieve muscular tightness, increase thoracic mobility",
+      "source_chat": {
+        "date": "2026-03-16 06:54",
+        "excerpt": "Thoracic extension on foam-roller 2\u00d760 s + thread-the-needle 2\u00d710/side. Video in app."
+      }
+    },
+    {
+      "id": "D032",
+      "date": "2026-03-17",
+      "author": "Carla",
+      "category": "Nutrition",
+      "decision": "Approved edamame spaghetti once/week as pasta substitute",
+      "trigger_event": "Chef asked about introducing edamame spaghetti",
+      "reason": "Lower-GI, high-protein substitute supports glucose and lipid stability",
+      "expected_outcome": "Better macronutrient balance, improved postprandial glucose control",
+      "source_chat": {
+        "date": "2026-03-17 18:05",
+        "excerpt": "Chef asked if edamame spaghetti is okay as pasta substitute one night/week\u2014high protein, low GI."
+      }
+    },
+    {
+      "id": "D033",
+      "date": "2026-03-19",
+      "author": "Dr Warren",
+      "category": "Diagnostics",
+      "decision": "Added fasting insulin and OGTT to April panel",
+      "trigger_event": "Need to monitor glucose metabolism drift",
+      "reason": "Expanded testing allows early detection of insulin resistance or impaired glucose tolerance",
+      "expected_outcome": "Identify early metabolic risks for cardiovascular and cognitive health",
+      "source_chat": {
+        "date": "2026-03-19 21:40",
+        "excerpt": "Same tests + add insulin & OGTT to gauge fasting glucose drift."
+      }
+    },
+    {
+      "id": "D034",
+      "date": "2026-03-20",
+      "author": "Advik",
+      "category": "Exercise",
+      "decision": "Approved make-up Zone-2 run (40 min @130\u2013135 bpm before breakfast)",
+      "trigger_event": "Rohan missed planned workout due to work call",
+      "reason": "Allows recovery of weekly aerobic load despite schedule disruption",
+      "expected_outcome": "Maintain consistency towards Zone-2 weekly target",
+      "source_chat": {
+        "date": "2026-03-20 23:18",
+        "excerpt": "Yes. 40-min at 130-135 bpm before breakfast; still keeps weekly load target."
+      }
+    },
+    {
+      "id": "D035",
+      "date": "2026-03-22",
+      "author": "Rachel",
+      "category": "Exercise",
+      "decision": "Issued Seoul travel pack checklist (mini-bands, magnesium, melatonin, skipping rope) and queued Programme C hotel variant",
+      "trigger_event": "Upcoming Seoul travel week",
+      "reason": "Ensure continuity of strength and mobility work in travel environment",
+      "expected_outcome": "Maintain training adherence and sleep hygiene during travel",
+      "source_chat": {
+        "date": "2026-03-22 07:15",
+        "excerpt": "Travel pack checklist: mini-bands, magnesium, melatonin, skipping rope. Programme C 'hotel' version queued."
+      }
+    },
+    {
+      "id": "D036",
+      "date": "2026-03-24",
+      "author": "Rachel",
+      "category": "Exercise",
+      "decision": "Provided room workout circuit (split squat, push-ups, band rows, jump rope) at 05:40",
+      "trigger_event": "Hotel gym opened too late before Rohan\u2019s early meeting",
+      "reason": "Provide travel-suitable full-body session when access restricted",
+      "expected_outcome": "Preserve training load when gym time unavailable",
+      "source_chat": {
+        "date": "2026-03-24 07:25",
+        "excerpt": "We\u2019ll do room circuit: Split squat, push-up, band row, jump rope. Takes 20 min\u2014slot 05:40."
+      }
+    },
+    {
+      "id": "D037",
+      "date": "2026-03-25",
+      "author": "Carla",
+      "category": "Nutrition",
+      "decision": "Recommended lean Korean BBQ cuts with lettuce wraps, limited rice cakes, + NAC 600 mg before bed",
+      "trigger_event": "Expected K-BBQ dinner during Seoul travel",
+      "reason": "Mitigate oxidative load from grilled meats and balance carbohydrate intake",
+      "expected_outcome": "Minimized oxidative stress, improved recovery quality",
+      "source_chat": {
+        "date": "2026-03-25 20:11",
+        "excerpt": "Stick to lean cuts (chadolbagi) + lettuce wraps; limit rice cakes. Take 600 mg NAC before bed..."
+      }
+    },
+    {
+      "id": "D038",
+      "date": "2026-03-26",
+      "author": "Advik",
+      "category": "Recovery",
+      "decision": "Replaced scheduled workout with 15-min breathwork and mobility due to HRV 43 ms and high strain",
+      "trigger_event": "HRV recovery dip during Seoul travel",
+      "reason": "Training under poor recovery increases risk of overtraining; downshift supports recovery",
+      "expected_outcome": "Prevent excess fatigue, restore HRV, enhance resilience",
+      "source_chat": {
+        "date": "2026-03-26 06:33",
+        "excerpt": "Travel recovery: HRV 43 ms, strain high. Swap tonight\u2019s workout \u2192 15-min breath + mobility."
+      }
+    },
+    {
+      "id": "D039",
+      "date": "2026-03-27",
+      "author": "Ruby",
+      "category": "Exercise",
+      "decision": "Rescheduled long run to Monday after flight",
+      "trigger_event": "Saturday return flight and recovery needs",
+      "reason": "Post-flight fatigue impairs endurance capacity; moving session preserves quality",
+      "expected_outcome": "Optimized long run performance and reduced travel fatigue",
+      "source_chat": {
+        "date": "2026-03-27 22:55",
+        "excerpt": "I moved Sunday long run to Monday to allow full recovery."
+      }
+    },
+    {
+      "id": "D040",
+      "date": "2026-03-29",
+      "author": "Rachel",
+      "category": "Therapy",
+      "decision": "Re-prescribed ankle floss drill, calf stretch, and ice 10 min as needed",
+      "trigger_event": "Rohan reported left ankle stiffness after hotel stairs",
+      "reason": "Soft-tissue maintenance needed after travel overload",
+      "expected_outcome": "Relieve ankle tightness, preserve mobility, reduce pain",
+      "source_chat": {
+        "date": "2026-03-29 09:23",
+        "excerpt": "Yes, floss drill + calf stretch 2\u00d760 s. Add ice 10 min if soreness persists."
+      }
+    },
+    {
+      "id": "D041",
+      "date": "2026-03-30",
+      "author": "Rachel",
+      "category": "Exercise",
+      "decision": "Programme C v1.1 updates: tempo front-squat (3-1-X), DB bench instead of landmine press for travel, 2\u00d7500 m row finisher",
+      "trigger_event": "Pre-Q1 review program adjustments",
+      "reason": "Increase hypertrophy stimulus, improve practicality in travel gyms, add aerobic conditioning",
+      "expected_outcome": "Enhanced strength and conditioning balance, travel-robust program",
+      "source_chat": {
+        "date": "2026-03-30 07:08",
+        "excerpt": "Add tempo (3-1-X) to front-squat... Switch landmine press... New finisher: 2 \u00d7 500 m row."
+      }
+    },
+    {
+      "id": "D042",
+      "date": "2026-04-15",
+      "author": "Dr Warren",
+      "category": "Medication",
+      "decision": "Plan to initiate statin (rosuvastatin 10 mg nightly) if April labs confirm ApoB remains >120 mg/dL",
+      "trigger_event": "Rohan\u2019s April lipid panel requisition sent; awaiting results",
+      "reason": "Lifestyle interventions in Q1 improved markers but ApoB risk threshold may require medication escalation",
+      "expected_outcome": "Drop ApoB 20\u201330% within 3 months, reducing long-term CVD risk",
+      "source_chat": {
+        "date": "2026-03-19 21:40",
+        "excerpt": "April panel requisition sent to Parkway. Same tests + add insulin & OGTT..."
+      }
+    },
+    {
+      "id": "D042",
+      "date": "2026-04-01",
+      "author": "Ruby",
+      "category": "Diagnostics",
+      "decision": "Instructed water-only fasting (no black coffee) prior to diagnostic panel",
+      "trigger_event": "Rohan asked if black coffee was allowed during fast",
+      "reason": "Caffeine alters glucose and cortisol, interfering with lab accuracy",
+      "expected_outcome": "Reliable fasting glucose and cortisol panel results",
+      "source_chat": {
+        "date": "2026-04-01 07:51",
+        "excerpt": "Plain water only, sorry\u2014caffeine alters glucose and cortisol."
+      }
+    },
+    {
+      "id": "D043",
+      "date": "2026-04-02",
+      "author": "Carla",
+      "category": "Nutrition",
+      "decision": "Increase oily-fish dinners from once to twice weekly (swap chicken for salmon on Wednesdays)",
+      "trigger_event": "Chef reported psyllium compliance; Carla proposed next micro-tweak",
+      "reason": "Boost dietary omega-3 intake to further improve lipid markers",
+      "expected_outcome": "Lower triglycerides, improved ApoB and omega-3 index",
+      "source_chat": {
+        "date": "2026-04-02 18:20",
+        "excerpt": "Next micro-tweak: bump oily-fish dinners from 1 \u2192 2 \u00d7/week."
+      }
+    },
+    {
+      "id": "D044",
+      "date": "2026-04-03",
+      "author": "Advik",
+      "category": "Exercise",
+      "decision": "Increase Zone-2 training goal from 150 \u2192 170 min for April",
+      "trigger_event": "March summary showed VO\u2082max steady and HRV positive",
+      "reason": "Progressive overload principle\u2014safely increase aerobic base stimulus",
+      "expected_outcome": "Improved VO\u2082max and cardiovascular resilience",
+      "source_chat": {
+        "date": "2026-04-03 06:45",
+        "excerpt": "Let\u2019s nudge Zone-2 to 170 min this month."
+      }
+    },
+    {
+      "id": "D045",
+      "date": "2026-04-03",
+      "author": "Advik",
+      "category": "Exercise",
+      "decision": "Deferred Garmin race-pace workout recommendation; tempo runs postponed until May ECG clearance",
+      "trigger_event": "Garmin suggested race-pace run",
+      "reason": "Prevent premature high-intensity before cardiac evaluation",
+      "expected_outcome": "Structured, safe progression after ECG confirmation",
+      "source_chat": {
+        "date": "2026-04-03 08:15",
+        "excerpt": "Ignore. We\u2019ll introduce tempo runs after May ECG review."
+      }
+    },
+    {
+      "id": "D046",
+      "date": "2026-04-04",
+      "author": "Rachel",
+      "category": "Exercise",
+      "decision": "Increase kettlebell squat load to 24 kg",
+      "trigger_event": "Video review showed proper squat depth and form",
+      "reason": "Safe progression required for strength overload",
+      "expected_outcome": "Increased lower body strength and hypertrophy stimulus",
+      "source_chat": {
+        "date": "2026-04-04 19:10",
+        "excerpt": "Squat video looks great... Increase kettlebell to 24 kg next session."
+      }
+    },
+    {
+      "id": "D047",
+      "date": "2026-04-06",
+      "author": "Carla",
+      "category": "Nutrition",
+      "decision": "Split psyllium husk into 2.5 g at breakfast and 2.5 g at lunch with 400 ml water each",
+      "trigger_event": "Rohan reported bloating from psyllium",
+      "reason": "Reduce gastrointestinal discomfort while maintaining lipid-lowering benefit",
+      "expected_outcome": "Better tolerance and sustained LDL-lowering outcome",
+      "source_chat": {
+        "date": "2026-04-06 21:14",
+        "excerpt": "Try splitting 5 g into 2.5 g breakfast + 2.5 g lunch; chase with 400 ml water each."
+      }
+    },
+    {
+      "id": "D048",
+      "date": "2026-04-11",
+      "author": "Rachel",
+      "category": "Exercise",
+      "decision": "Introduced Programme D v1.0 (includes strides block, front-rack barbell squat, shorter mobility sets)",
+      "trigger_event": "Training cycle update post ankle-mobility progress",
+      "reason": "Advance training stimulus and add running economy drills",
+      "expected_outcome": "Improved strength and aerobic efficiency",
+      "source_chat": {
+        "date": "2026-04-11 06:38",
+        "excerpt": "Key adds: Strides... front-rack barbell introduced... Mobility block shortened."
+      }
+    },
+    {
+      "id": "D049",
+      "date": "2026-04-12",
+      "author": "Dr Warren",
+      "category": "Nutrition",
+      "decision": "Opted for lifestyle first (post-dinner walks + resistant starch) instead of berberine for borderline OGTT",
+      "trigger_event": "Rohan asked about adding berberine for glucose levels",
+      "reason": "Mild glucose rise manageable with behavioral changes before medication",
+      "expected_outcome": "Reduced post-meal glucose spikes, reassess in June panel",
+      "source_chat": {
+        "date": "2026-04-12 20:40",
+        "excerpt": "Possibly, but we\u2019ll trial lifestyle first (evening walk + resistant-starch add-on). Re-test glucose in June."
+      }
+    },
+    {
+      "id": "D050",
+      "date": "2026-04-14",
+      "author": "Team Review",
+      "category": "Nutrition",
+      "decision": "Add resistant-starch meals (cooled rice/potato twice weekly)",
+      "trigger_event": "OGTT showed borderline glucose regulation",
+      "reason": "Resistant starch improves insulin sensitivity and dampens glucose excursions",
+      "expected_outcome": "Improved glycemic control by June panel",
+      "source_chat": {
+        "date": "2026-04-14 18:00",
+        "excerpt": "Nutrition: resistant-starch (cooled rice/potatoes twice weekly)"
+      }
+    },
+    {
+      "id": "D051",
+      "date": "2026-04-14",
+      "author": "Team Review",
+      "category": "Exercise",
+      "decision": "Introduce strides training block",
+      "trigger_event": "Q1 planning session for performance goals",
+      "reason": "Add controlled speed stimulus after solid aerobic base work",
+      "expected_outcome": "Enhanced running economy and cadence efficiency",
+      "source_chat": {
+        "date": "2026-04-14 18:00",
+        "excerpt": "Training: introduce strides block (Rachel)"
+      }
+    },
+    {
+      "id": "D052",
+      "date": "2026-04-14",
+      "author": "Team Review",
+      "category": "Recovery",
+      "decision": "Add daily 10-min post-dinner walk",
+      "trigger_event": "Borderline OGTT risk flagged",
+      "reason": "Post-meal walking promotes glucose clearance",
+      "expected_outcome": "Flatter postprandial glucose curves",
+      "source_chat": {
+        "date": "2026-04-14 18:00",
+        "excerpt": "Add 10-min post-dinner walk daily (starts tonight)"
+      }
+    },
+    {
+      "id": "D053",
+      "date": "2026-04-16",
+      "author": "Carla",
+      "category": "Nutrition",
+      "decision": "Before higher-GI meals, take 2 tbsp vinegar in water",
+      "trigger_event": "Rohan had unavoidable rice at client dinner",
+      "reason": "Acetic acid reduces postprandial glucose peaks",
+      "expected_outcome": "Blunted glucose excursions after carbohydrate-rich meals",
+      "source_chat": {
+        "date": "2026-04-16 06:40",
+        "excerpt": "Take 2 tbsp vinegar in water before meal; blunts glucose spike ~20%."
+      }
+    },
+    {
+      "id": "D054",
+      "date": "2026-04-17",
+      "author": "Rachel",
+      "category": "Exercise",
+      "decision": "Created Travel Band-Flow circuit (25-min full-body) for Jakarta trip",
+      "trigger_event": "Hotel gym limitation flagged during Jakarta travel",
+      "reason": "Ensure exercise adherence without equipment",
+      "expected_outcome": "Complete strength + conditioning session achievable in hotel room",
+      "source_chat": {
+        "date": "2026-04-17 21:30",
+        "excerpt": "Travel BAND-FLOW circuit in Trainerize: 25-min full-body; test tomorrow."
+      }
+    },
+    {
+      "id": "D055",
+      "date": "2026-04-18",
+      "author": "Carla",
+      "category": "Nutrition",
+      "decision": "Room-service protein/fat breakfast (eggs + avocado) as pastry substitute",
+      "trigger_event": "Rohan noted high-GI pastries at Jakarta hotel breakfast",
+      "reason": "Replace refined carbs with protein/fat to prevent glycemic spike",
+      "expected_outcome": "Stable morning glucose, improved satiety",
+      "source_chat": {
+        "date": "2026-04-18 12:22",
+        "excerpt": "Room-service: order 2 eggs + avocado, skip pastry. Add fruit later if needed."
+      }
+    },
+    {
+      "id": "D056",
+      "date": "2026-04-19",
+      "author": "Advik",
+      "category": "Exercise",
+      "decision": "Downgraded planned workout to mobility-only due to HRV fall (42 ms) during travel",
+      "trigger_event": "Overnight HRV drop flagged by Garmin",
+      "reason": "Avoid stressing body during low-recovery state",
+      "expected_outcome": "Recovery preserved; HRV rebound within 48 h",
+      "source_chat": {
+        "date": "2026-04-19 05:58",
+        "excerpt": "Overnight HRV 42 ms\u2014travel stress. Reduce strides today; light mobility only."
+      }
+    },
+    {
+      "id": "D057",
+      "date": "2026-04-22",
+      "author": "Ruby",
+      "category": "Recovery",
+      "decision": "Post-travel recovery: 20-min sauna, 400 mg magnesium, lights out 22:30",
+      "trigger_event": "Return from Jakarta trip",
+      "reason": "Support circadian reset and stress recovery",
+      "expected_outcome": "Better sleep quality, accelerated recovery",
+      "source_chat": {
+        "date": "2026-04-22 18:05",
+        "excerpt": "Recovery protocol: 20-min sauna tonight, magnesium 400 mg, lights out 22:30."
+      }
+    },
+    {
+      "id": "D058",
+      "date": "2026-04-23",
+      "author": "Rachel",
+      "category": "Exercise",
+      "decision": "Programme D v1.1: add single-leg hop drill, reduce squat load 5 kg first week post-travel",
+      "trigger_event": "Post-travel exercise update",
+      "reason": "Implement plyometric ankle strengthening and safe load resumption",
+      "expected_outcome": "Reduced injury risk, maintained training adaptation",
+      "source_chat": {
+        "date": "2026-04-23 07:35",
+        "excerpt": "Added single-leg hop drill... Reduced front-squat load 5 kg first week post-travel."
+      }
+    },
+    {
+      "id": "D059",
+      "date": "2026-04-24",
+      "author": "Advik",
+      "category": "Sleep",
+      "decision": "Prescribed blue-light blockers after 20:30, 3 mg glycine, and warm shower 30 min pre-bed",
+      "trigger_event": "Rohan reported sleep duration stuck at 5 h 45 m post-Jakarta",
+      "reason": "Circadian and nutritional adjustments promote sleep onset",
+      "expected_outcome": "Increase nightly sleep duration and quality",
+      "source_chat": {
+        "date": "2026-04-24 20:56",
+        "excerpt": "Blue-light blockers after 20:30, 3 mg glycine + warm shower 30 min pre-bed."
+      }
+    },
+    {
+      "id": "D060",
+      "date": "2026-04-25",
+      "author": "Carla",
+      "category": "Nutrition",
+      "decision": "Add cooled-rice resistant-starch salad twice/week with vinegar dressing",
+      "trigger_event": "Chef asked about resistant starch integration",
+      "reason": "Enhance insulin sensitivity, support satiety, assist glucose control",
+      "expected_outcome": "Reduced postprandial glycemic response",
+      "source_chat": {
+        "date": "2026-04-25 10:22",
+        "excerpt": "Prep cooled jasmine rice salad twice/week; add apple-cider vinegar dressing."
+      }
+    },
+    {
+      "id": "D061",
+      "date": "2026-04-26",
+      "author": "Dr Warren",
+      "category": "Diagnostics",
+      "decision": "Ordered Freestyle Libre CGM 14-day trial starting May 3; pharmacologic interventions to be considered after results",
+      "trigger_event": "Borderline OGTT result needs deeper monitoring",
+      "reason": "Continuous glucose monitoring provides insight into daily variability before medication decisions",
+      "expected_outcome": "Refined glucose trends to guide therapy (lifestyle vs medication)",
+      "source_chat": {
+        "date": "2026-04-26 08:18",
+        "excerpt": "Ordered Freestyle Libre CGM 14-day trial (starts 3 May). Will guide decision on berberine after."
+      }
+    },
+    {
+      "id": "D062",
+      "date": "2026-05-20",
+      "author": "Dr Warren",
+      "category": "Medication",
+      "decision": "If CGM confirms persistent postprandial spikes, initiate berberine 500 mg twice daily with meals",
+      "trigger_event": "April OGTT borderline result + ongoing CGM data review",
+      "reason": "Pharmacological agent to augment lifestyle when glucose intolerance persists",
+      "expected_outcome": "Lower postprandial glucose excursions, improved insulin sensitivity within 12 weeks",
+      "source_chat": {
+        "date": "2026-04-26 08:18",
+        "excerpt": "CGM trial ordered; pharmacologic decision (berberine) pending based on glucose curve results."
+      }
+    },
+    {
+      "id": "D062",
+      "date": "2026-05-01",
+      "author": "Rachel",
+      "category": "Exercise",
+      "decision": "Counted family fun-run as Zone-2 training and logged 3 km at easy pace",
+      "trigger_event": "Rohan shared family fun-run photo",
+      "reason": "Informal aerobic effort supports aerobic base goals for the week",
+      "expected_outcome": "Maintain Zone-2 weekly volume while increasing adherence through enjoyable activity",
+      "source_chat": {
+        "date": "2026-05-01 07:18",
+        "excerpt": "Love the pic! Counts as today\u2019s Zone-2. Log 3 km @ easy pace."
+      }
+    },
+    {
+      "id": "D063",
+      "date": "2026-05-02",
+      "author": "Ruby",
+      "category": "Diagnostics",
+      "decision": "Scheduled continuous glucose monitor (CGM) insertion with nurse, left tricep placement, no shower for 2h",
+      "trigger_event": "CGM courier confirmation for next-day delivery",
+      "reason": "Initiate 14-day continuous glucose monitoring for detailed glucose profiling",
+      "expected_outcome": "Precise glucose data to evaluate postprandial responses and confirm OGTT results",
+      "source_chat": {
+        "date": "2026-05-02 19:40",
+        "excerpt": "CGM courier arrives tomorrow 09:00; nurse will insert sensor on left tricep and walk you through Libre app."
+      }
+    },
+    {
+      "id": "D064",
+      "date": "2026-05-03",
+      "author": "Carla",
+      "category": "Nutrition",
+      "decision": "For sushi meals: take 1 tbsp vinegar in water pre-meal, maintain sashimi-to-rice ratio 2:1, add 10-min post-meal walk",
+      "trigger_event": "Rohan reported glucose spike to 158 mg/dL after sushi",
+      "reason": "Vinegar, food composition shifts, and post-meal activity can blunt postprandial hyperglycemia",
+      "expected_outcome": "Reduce glucose spike to ~140 mg/dL and improve overall glycemic control",
+      "source_chat": {
+        "date": "2026-05-03 21:22",
+        "excerpt": "Sushi rice spikes fast. Try vinegar water, 2:1 sashimi:rice, and 10-min walk."
+      }
+    },
+    {
+      "id": "D065",
+      "date": "2026-05-22",
+      "author": "Advik",
+      "category": "Sleep",
+      "decision": "Prescribed red-eye travel sleep protocol: pre-sleep routine 18:00 UK time, melatonin in-flight, caffeine cut-off 10:00",
+      "trigger_event": "Rohan preparing to board overnight UK\u2013Singapore flight",
+      "reason": "Manage circadian disruption and HRV reduction associated with red-eye travel",
+      "expected_outcome": "Better adaptation to local time, minimized HRV decline post-flight",
+      "source_chat": {
+        "date": "2026-05-22 09:20",
+        "excerpt": "Start pre-sleep routine 18:00 UK time, melatonin in-flight, caffeine stop 10:00."
+      }
+    },
+    {
+      "id": "D066",
+      "date": "2026-05-23",
+      "author": "Rachel",
+      "category": "Exercise",
+      "decision": "Launched Programme E v1.0 post-travel deload: reduce dumbbell snatch load \u221210%, add Copenhagen plank, set Zone-2 goal at 140 min",
+      "trigger_event": "Return from long-haul travel; recovery week programming",
+      "reason": "Deloading prevents overload post-travel while strengthening hip adductors",
+      "expected_outcome": "Avoid injury, sustain conditioning, allow body to rebound after travel stress",
+      "source_chat": {
+        "date": "2026-05-23 19:45",
+        "excerpt": "Post-travel deload week: snatch load \u221210%, add Copenhagen plank, Zone-2 at 140 min."
+      }
+    },
+    {
+      "id": "D067",
+      "date": "2026-05-24",
+      "author": "Ruby",
+      "category": "Recovery",
+      "decision": "Implemented jet-lag recovery day: 10-min morning light, 90-min nap cap, lights out 22:00",
+      "trigger_event": "Rohan returning from red-eye flight and requested guidance",
+      "reason": "Strategic light exposure and sleep patterning accelerate circadian adaptation",
+      "expected_outcome": "Reduced jet-lag, improved HRV rebound, restored normal rhythm faster",
+      "source_chat": {
+        "date": "2026-05-24 08:12",
+        "excerpt": "Jet-lag recovery day schedule sent\u201410-min morning light, 90-min nap cap, lights-out 22:00."
+      }
+    },
+    {
+      "id": "D068",
+      "date": "2026-05-25",
+      "author": "Advik",
+      "category": "Sleep",
+      "decision": "Advised skipping melatonin; add 3 g glycine and warm bath 30 min before bed",
+      "trigger_event": "Rohan noted early waking at 04:30 despite melatonin use",
+      "reason": "Avoid melatonin overuse; shift to nutritional + thermal relaxation approach",
+      "expected_outcome": "Extend sleep duration and reduce early-morning awakenings",
+      "source_chat": {
+        "date": "2026-05-25 20:40",
+        "excerpt": "Skip melatonin tonight; add 3 g glycine + warm bath 30 min pre-bed."
+      }
+    },
+    {
+      "id": "D069",
+      "date": "2026-05-29",
+      "author": "Dr Warren",
+      "category": "Diagnostics",
+      "decision": "Scheduled mini-finger-prick test on 12 Jun (fasting glucose & lipids)",
+      "trigger_event": "Need to confirm CGM findings with validated lab data",
+      "reason": "Finger-stick lab test provides gold-standard measurement vs CGM estimates",
+      "expected_outcome": "Confirm CGM-detected glucose trends and lipid changes",
+      "source_chat": {
+        "date": "2026-05-29 08:35",
+        "excerpt": "Scheduled mini-finger-prick test 12 Jun (fasting glucose & lipids) to confirm CGM findings."
+      }
+    },
+    {
+      "id": "D070",
+      "date": "2026-05-30",
+      "author": "Rachel",
+      "category": "Exercise",
+      "decision": "Introduced Saturday outdoor session: 5-km tempo at 5:30 min/km + 3 \u00d7 30-sec hill sprints",
+      "trigger_event": "Weekly outdoor run plan",
+      "reason": "Blend aerobic base work with anaerobic sprint stimulus",
+      "expected_outcome": "Improved endurance capacity and running power/speed",
+      "source_chat": {
+        "date": "2026-05-30 06:55",
+        "excerpt": "5-km tempo (pace 5:30 min/km), finish with 3 \u00d7 30-sec hill sprints."
+      }
+    },
+    {
+      "id": "D071",
+      "date": "2026-06-15",
+      "author": "Dr Warren",
+      "category": "Medication",
+      "decision": "If June finger-prick or CGM validation shows persistent postprandial spikes, initiate berberine 500 mg BID",
+      "trigger_event": "Borderline April OGTT and May CGM findings; confirmation scheduled June mini-panel",
+      "reason": "Pharmacologic support considered if lifestyle interventions insufficient to normalize glucose",
+      "expected_outcome": "Lower postprandial glucose by ~10\u201320%, improve insulin sensitivity within 2\u20133 months",
+      "source_chat": {
+        "date": "2026-05-29 08:35",
+        "excerpt": "Mini-finger-prick test 12 Jun (fasting glucose & lipids) will confirm CGM findings; determine if intervention needed."
+      }
+    },
+    {
+      "id": "D071",
+      "date": "2026-06-01",
+      "author": "Advik",
+      "category": "Sleep",
+      "decision": "Launched Sleep-extension protocol v2: evening phone auto-dim 20:15, 3 g glycine + 300 mg magnesium 30 min pre-bed, bed by 22:15, lights-out 22:30",
+      "trigger_event": "Sleep duration below targets in May review",
+      "reason": "Structured behavioral + nutritional sleep hygiene interventions can lengthen sleep duration",
+      "expected_outcome": "Increase average sleep to \u2265 6 h 45 m by June-end",
+      "source_chat": {
+        "date": "2026-06-01 07:10",
+        "excerpt": "Sleep-extension protocol v2 live today: dim 20:15... aim for 6 h 45 m average."
+      }
+    },
+    {
+      "id": "D072",
+      "date": "2026-06-01",
+      "author": "Advik",
+      "category": "Sleep",
+      "decision": "Permitted Kindle reading in bed if sepia mode, brightness \u226415%",
+      "trigger_event": "Rohan asked if Kindle use disrupted sleep protocol",
+      "reason": "Sepia mode + low brightness minimizes circadian rhythm disruption",
+      "expected_outcome": "Preserve adherence to sleep-extension protocol without blue-light interference",
+      "source_chat": {
+        "date": "2026-06-01 07:25",
+        "excerpt": "Kindle OK\u2014use sepia mode, brightness \u226415%."
+      }
+    },
+    {
+      "id": "D073",
+      "date": "2026-06-02",
+      "author": "Rachel",
+      "category": "Exercise",
+      "decision": "Programme E v1.3 update: kettlebell snatch load +2 kg (20 kg), substitute stair sprints for rain, add suitcase carry finisher (2\u00d740 m)",
+      "trigger_event": "Bi-weekly exercise update",
+      "reason": "Progress load to stimulate adaptation; weather-proof sprint option; trunk stability addition",
+      "expected_outcome": "Improved strength, aerobic capacity, and core stability consistency",
+      "source_chat": {
+        "date": "2026-06-02 07:45",
+        "excerpt": "Programme E v1.3 - snatch +2 kg... stair-sprints if raining... suitcase carry 2\u00d740 m."
+      }
+    },
+    {
+      "id": "D074",
+      "date": "2026-06-03",
+      "author": "Carla",
+      "category": "Nutrition",
+      "decision": "Approved overnight oats (40 g oats + Greek yogurt + tart-cherry) as evening snack",
+      "trigger_event": "Chef suggested oats with tryptophan to aid sleep",
+      "reason": "Tryptophan and tart cherry may enhance sleep quality and onset",
+      "expected_outcome": "Improved sleep initiation and duration",
+      "source_chat": {
+        "date": "2026-06-03 21:05",
+        "excerpt": "Chef asked about cold-soak overnight oats to aid sleep."
+      }
+    },
+    {
+      "id": "D075",
+      "date": "2026-06-08",
+      "author": "Rachel",
+      "category": "Exercise",
+      "decision": "Reduced kettlebell snatch load \u22124 kg; added band-pull-apart warm-up (2\u00d720 reps)",
+      "trigger_event": "Rohan reported mild right shoulder pinch during snatches",
+      "reason": "Load reduction prevents aggravation; scapular stability warm-up restores function",
+      "expected_outcome": "Shoulder recovery without losing training continuity",
+      "source_chat": {
+        "date": "2026-06-08 07:04",
+        "excerpt": "Yes\u2014snatch load \u22124 kg; add band-pull-apart 2\u00d720. Video form Thu."
+      }
+    },
+    {
+      "id": "D076",
+      "date": "2026-06-10",
+      "author": "Carla",
+      "category": "Nutrition",
+      "decision": "Replace croissant with overnight oats on 3 days/week",
+      "trigger_event": "CGM analysis showed croissants triggered recurring glucose spikes",
+      "reason": "Reduce high-glycemic index foods, replace with low-GI, fiber-rich alternatives",
+      "expected_outcome": "Lower postprandial glucose spikes; improve glycemic stability",
+      "source_chat": {
+        "date": "2026-06-10 19:18",
+        "excerpt": "Saw CGM report; croissant still spike offender. Swap with oats 3\u00d7/week."
+      }
+    },
+    {
+      "id": "D077",
+      "date": "2026-06-13",
+      "author": "Dr Warren",
+      "category": "Medication",
+      "decision": "Continue lifestyle measures only; no medication added",
+      "trigger_event": "Mini-panel (12 Jun) showed fasting glucose 92 mg/dL, LDL-C 116 mg/dL, ApoB 101 mg/dL, hs-CRP 1.1 mg/L",
+      "reason": "Metabolic and lipid markers stable or improving; no pharmacological treatment indicated",
+      "expected_outcome": "Sustained improvement maintained with lifestyle adherence",
+      "source_chat": {
+        "date": "2026-06-13 17:05",
+        "excerpt": "Glucose trending right direction; continue lifestyle, no meds."
+      }
+    },
+    {
+      "id": "D078",
+      "date": "2026-06-15",
+      "author": "Advik",
+      "category": "Recovery",
+      "decision": "Pre-flight protection: 500 mg vitamin C, 30-min walk pre-boarding, nasal spray during flight",
+      "trigger_event": "Pre-flight HRV = 56 ms (above baseline) before long-haul",
+      "reason": "Protect high recovery state and immunity against travel disruption",
+      "expected_outcome": "Minimize HRV deterioration and reduce infection risk during travel",
+      "source_chat": {
+        "date": "2026-06-15 06:22",
+        "excerpt": "Pre-flight HRV 56 ms... protect with vitamin C, 30-min walk, nasal spray."
+      }
+    },
+    {
+      "id": "D079",
+      "date": "2026-06-16",
+      "author": "Advik",
+      "category": "Recovery",
+      "decision": "Day-1 travel recovery: 20-min walk, 15-min sauna, no strenuous workouts",
+      "trigger_event": "Rohan reported only 3 h sleep on transatlantic red-eye",
+      "reason": "Restorative activity needed; avoid additional physiological stress",
+      "expected_outcome": "Faster time-zone adjustment, preserved HRV, prevention of overload",
+      "source_chat": {
+        "date": "2026-06-16 06:16",
+        "excerpt": "Take Day-1 recovery: 20-min walk Central Park, 15-min sauna, no hard workout."
+      }
+    },
+    {
+      "id": "D080",
+      "date": "2026-06-17",
+      "author": "Carla",
+      "category": "Nutrition",
+      "decision": "Confirmed glucose 138 mg/dL post ribeye + wine dinner acceptable",
+      "trigger_event": "Rohan asked if steakhouse meal glucose rise was problematic",
+      "reason": "Mixed macronutrient meal produced acceptable glycemic excursion",
+      "expected_outcome": "Reassurance and no dietary changes required",
+      "source_chat": {
+        "date": "2026-06-17 21:25",
+        "excerpt": "Glucose 138 mg/dL post-meal acceptable for ribeye + wine."
+      }
+    },
+    {
+      "id": "D081",
+      "date": "2026-07-20",
+      "author": "Dr Warren",
+      "category": "Medication",
+      "decision": "If July panel shows worsening ApoB (>120 mg/dL) or glucose spikes, initiate pharmacologic support (rosuvastatin 10 mg or berberine 500 mg BID as indicated)",
+      "trigger_event": "Planned July 18 full diagnostic panel will reassess lipids + glucose control",
+      "reason": "Escalation to medication warranted if biomarkers deteriorate despite lifestyle adherence",
+      "expected_outcome": "Reduce ApoB by 20\u201330% and blunt postprandial glucose by 10\u201320%, reducing long-term CV and metabolic risk",
+      "source_chat": {
+        "date": "2026-06-29 19:25",
+        "excerpt": "July 18 full panel \u2192 lipid & CT review scheduled; determine next-step therapy if required."
+      }
+    },
+    {
+      "id": "D081",
+      "date": "2026-07-01",
+      "author": "Rachel",
+      "category": "Exercise",
+      "decision": "Set trap-bar deadlift start at 80 kg (~65% 1RM) for 3\u00d75 with first set video",
+      "trigger_event": "Rohan asked about starting weight for Programme F",
+      "reason": "Start conservatively after long gap to ensure form and safety",
+      "expected_outcome": "Establish safe baseline load and enable progressive overload",
+      "source_chat": {
+        "date": "2026-07-01 07:40",
+        "excerpt": "Start 80 kg (\u224865% 1RM) 3\u00d75. Video 1st set for feedback."
+      }
+    },
+    {
+      "id": "D082",
+      "date": "2026-07-02",
+      "author": "Carla",
+      "category": "Nutrition",
+      "decision": "Swap pre-lift overnight oats with banana + 15 g whey; keep oats for non-lift days",
+      "trigger_event": "Rohan reported oats felt heavy pre-workout",
+      "reason": "Provide lighter carb-protein option to improve digestion and comfort pre-lift",
+      "expected_outcome": "Better workout comfort, minimized GI load, sustained energy",
+      "source_chat": {
+        "date": "2026-07-02 07:06",
+        "excerpt": "Sure\u2014banana + 15 g whey = lighter carb-protein combo. Keep oats on non-lift days."
+      }
+    },
+    {
+      "id": "D083",
+      "date": "2026-07-02",
+      "author": "Rachel",
+      "category": "Exercise",
+      "decision": "Increase trap-bar DL load by +5 kg at next session",
+      "trigger_event": "Form check video showed proper technique",
+      "reason": "Safe progression justified by neutral spine and solid form",
+      "expected_outcome": "Progressive overload for continued strength development",
+      "source_chat": {
+        "date": "2026-07-02 09:02",
+        "excerpt": "Nice form... Next session add +5 kg."
+      }
+    },
+    {
+      "id": "D084",
+      "date": "2026-07-04",
+      "author": "Rachel",
+      "category": "Exercise",
+      "decision": "Prescribed 10-min hotel circuit: 5 rounds (squats, push-ups, plank)",
+      "trigger_event": "Hotel gym unavailable before early meeting",
+      "reason": "Ensure minimal viable strength stimulus during travel",
+      "expected_outcome": "Sustain exercise adherence despite travel restrictions",
+      "source_chat": {
+        "date": "2026-07-04 07:18",
+        "excerpt": "5-round EMOM: squats, push-ups, planks. Total 10 min."
+      }
+    },
+    {
+      "id": "D085",
+      "date": "2026-07-05",
+      "author": "Carla",
+      "category": "Nutrition",
+      "decision": "For HK dim-sum: choose steamed har gao, avoid char siu bao, continue vinegar pre-meal",
+      "trigger_event": "Anticipated high-carb dinner in HK",
+      "reason": "Select leaner options and vinegar trick to limit glucose spikes",
+      "expected_outcome": "Maintain more stable postprandial glucose response",
+      "source_chat": {
+        "date": "2026-07-05 21:40",
+        "excerpt": "Pick steamed har gao, avoid char siu bao. Vinegar trick still applies."
+      }
+    },
+    {
+      "id": "D086",
+      "date": "2026-07-06",
+      "author": "Advik",
+      "category": "Recovery",
+      "decision": "Scale workout intensity, hydrate 35 ml/kg during HRV dip while traveling",
+      "trigger_event": "HK trip\u2014HRV fell to 44 ms",
+      "reason": "HRV suppression signals recovery debt; scale intensity to restore autonomic balance",
+      "expected_outcome": "Prevent overtraining, shorten recovery window",
+      "source_chat": {
+        "date": "2026-07-06 06:05",
+        "excerpt": "HRV 44 ms (travel dip). Keep workout light, hydration 35 ml/kg."
+      }
+    },
+    {
+      "id": "D087",
+      "date": "2026-07-07",
+      "author": "Ruby",
+      "category": "Recovery",
+      "decision": "Post-travel: 20-min sauna, lights-out 22:30; moved strength to next evening",
+      "trigger_event": "Return from HK travel",
+      "reason": "Facilitate circadian reset and recovery before resuming stronger load",
+      "expected_outcome": "Faster normalization of sleep and HRV",
+      "source_chat": {
+        "date": "2026-07-07 23:48",
+        "excerpt": "Recovery: sauna, lights-out 22:30. Moved lift to 18:00."
+      }
+    },
+    {
+      "id": "D088",
+      "date": "2026-07-08",
+      "author": "Rachel",
+      "category": "Exercise",
+      "decision": "Shifted Thu/Fri lifts to 06:45",
+      "trigger_event": "Member requested earlier slots post-travel",
+      "reason": "Align training with schedule to preserve adherence",
+      "expected_outcome": "Higher consistency in session attendance",
+      "source_chat": {
+        "date": "2026-07-08 07:36",
+        "excerpt": "Switched Thu/Fri lifts to 06:45."
+      }
+    },
+    {
+      "id": "D089",
+      "date": "2026-07-09",
+      "author": "Rachel",
+      "category": "Exercise",
+      "decision": "Increase trap-bar DL +5 kg if last session RPE = 0",
+      "trigger_event": "Rohan noted prior DL felt easy",
+      "reason": "Safe overload guided by member\u2019s perceived exertion",
+      "expected_outcome": "Progressive gains without undue strain",
+      "source_chat": {
+        "date": "2026-07-09 19:57",
+        "excerpt": "Add +5 kg next session if RPE 0."
+      }
+    },
+    {
+      "id": "D090",
+      "date": "2026-07-14",
+      "author": "Team Review",
+      "category": "Exercise",
+      "decision": "Introduce travel split workouts: 2\u00d715 min on dense travel days",
+      "trigger_event": "Q2 review noted travel compliance plateau",
+      "reason": "Shorter split sessions improve likelihood of completion during busy schedules",
+      "expected_outcome": "Higher adherence and sustained training load",
+      "source_chat": {
+        "date": "2026-07-14 18:00",
+        "excerpt": "Introduce split workouts (2\u00d715 min) on dense travel days."
+      }
+    },
+    {
+      "id": "D091",
+      "date": "2026-07-14",
+      "author": "Team Review",
+      "category": "Medication",
+      "decision": "Conditional: If ApoB >100 at 18 Jul panel, start 2 g/day phytosterols",
+      "trigger_event": "Q2 review flagged borderline ApoB (101)",
+      "reason": "Phytosterols reduce LDL/ApoB absorption; preventive measure if worsening",
+      "expected_outcome": "Decrease ApoB if biomarker cross-threshold occurs",
+      "source_chat": {
+        "date": "2026-07-14 18:00",
+        "excerpt": "If ApoB >100 at 18 Jul panel, add phytosterols."
+      }
+    },
+    {
+      "id": "D092",
+      "date": "2026-07-14",
+      "author": "Team Review",
+      "category": "Diagnostics",
+      "decision": "Pilot Oura Ring Gen4 for sleep staging",
+      "trigger_event": "Q2 review identified sleep-phase uncertainty",
+      "reason": "Wearable staging data enables refinement of sleep interventions",
+      "expected_outcome": "Better insight into REM/Deep distribution; guide optimization",
+      "source_chat": {
+        "date": "2026-07-14 18:00",
+        "excerpt": "Pilot Oura Ring Gen4 for sleep staging."
+      }
+    },
+    {
+      "id": "D093",
+      "date": "2026-07-15",
+      "author": "Rachel",
+      "category": "Exercise",
+      "decision": "Programme F v1.1: DL to 90 kg; add Bulgarian split squats; stride block 8\u00d720s; hotel micro-workout (8 min)",
+      "trigger_event": "Bi-weekly exercise progression update",
+      "reason": "Progressive strength adaptation and provide travel-friendly options",
+      "expected_outcome": "Advance strength and maintain adherence under travel conditions",
+      "source_chat": {
+        "date": "2026-07-15 06:40",
+        "excerpt": "Programme F v1.1: Trap-bar DL +5 kg, Bulgarian split-squats, stride block, hotel workout."
+      }
+    },
+    {
+      "id": "D094",
+      "date": "2026-07-17",
+      "author": "Dr Warren",
+      "category": "Nutrition",
+      "decision": "Permitted sugar-free electrolyte drink post-labs, pre-CT",
+      "trigger_event": "Rohan asked if electrolytes were allowed post-blood draw",
+      "reason": "Electrolyte solution safe after fasting labs; does not affect CT",
+      "expected_outcome": "Hydration without compromising diagnostic accuracy",
+      "source_chat": {
+        "date": "2026-07-17 22:07",
+        "excerpt": "Yes\u2014clear electrolyte drink (no sugar) fine post-bloods."
+      }
+    },
+    {
+      "id": "D095",
+      "date": "2026-07-19",
+      "author": "Dr Warren",
+      "category": "Medication",
+      "decision": "Started Vitamin D supplementation 2000 IU/day",
+      "trigger_event": "July panel showed Vitamin D 42 ng/mL (goal \u226550)",
+      "reason": "Borderline Vitamin D; supplementation recommended to support bone, immune, CV health",
+      "expected_outcome": "Increase serum Vitamin D to \u226550 ng/mL by October",
+      "source_chat": {
+        "date": "2026-07-19 17:05",
+        "excerpt": "Vit D 42, goal 50. Start 2000 IU/day."
+      }
+    },
+    {
+      "id": "D096",
+      "date": "2026-07-26",
+      "author": "Advik",
+      "category": "Recovery",
+      "decision": "Substitute strength for 20-min Zone-1 bike workout in hotel (HRV dip)",
+      "trigger_event": "Seoul trip HRV fell to 45 ms",
+      "reason": "HRV dip signals recovery debt; active recovery required",
+      "expected_outcome": "Preserve recovery, avoid overtraining in travel week",
+      "source_chat": {
+        "date": "2026-07-26 08:10",
+        "excerpt": "HRV 45 ms (travel dip). Swap PM strength with 20-min Zone-1 bike."
+      }
+    },
+    {
+      "id": "D097",
+      "date": "2026-07-27",
+      "author": "Carla",
+      "category": "Nutrition",
+      "decision": "Recommended lean BBQ cuts with lettuce wraps + 600 mg NAC pre-bed during K-BBQ dinner",
+      "trigger_event": "Korean BBQ planned on Seoul trip",
+      "reason": "Reduce fat/oxidative load and boost antioxidant defense overnight",
+      "expected_outcome": "Minimize oxidative stress impact from grilled meats",
+      "source_chat": {
+        "date": "2026-07-27 22:30",
+        "excerpt": "K-BBQ tonight: lean cuts + lettuce, NAC 600 mg pre-bed."
+      }
+    },
+    {
+      "id": "D098",
+      "date": "2026-07-30",
+      "author": "Rachel",
+      "category": "Exercise",
+      "decision": "Programme F v1.2: add rope-climb regression with towel pulls; maintain stride block; add track sprint option",
+      "trigger_event": "Bi-weekly exercise update during Seoul travel",
+      "reason": "Enhance grip strength, give aerobic alternative, adapt to gym variability",
+      "expected_outcome": "Broaden strength stimulus and ensure cardiovascular variety",
+      "source_chat": {
+        "date": "2026-07-30 14:02",
+        "excerpt": "Programme F v1.2: Add rope-climb regression... stride block... 4\u00d7200 m sprint option."
+      }
+    },
+    {
+      "id": "D099",
+      "date": "2026-10-20",
+      "author": "Dr Warren",
+      "category": "Medication",
+      "decision": "If October panel shows ApoB \u2265110 or OGTT deterioration, start rosuvastatin 10 mg or berberine 500 mg BID as indicated",
+      "trigger_event": "Future planning after July panel showed favorable but borderline markers",
+      "reason": "Escalate therapy only if biomarkers worsen despite lifestyle adherence",
+      "expected_outcome": "Reduce ApoB by 20\u201330% or blunt glycemic excursions by 10\u201320% within 3 months",
+      "source_chat": {
+        "date": "2026-07-19 17:05",
+        "excerpt": "Panel trending good; next review October CT+labs; escalate to meds if ApoB/glucose slip."
+      }
+    },
+    {
+      "id": "D099",
+      "date": "2026-08-01",
+      "author": "Ruby",
+      "category": "Recovery",
+      "decision": "Post-travel recovery protocol: sauna 20 min, lights-out 22:15, 40-min Zone-1 walk with family",
+      "trigger_event": "Return from Seoul travel trip",
+      "reason": "Re-establish circadian rhythm and reduce accumulated travel fatigue",
+      "expected_outcome": "Improved HRV stability, reduced fatigue, higher sleep quality post-travel",
+      "source_chat": {
+        "date": "2026-08-01 07:20",
+        "excerpt": "Recovery protocol: sauna 20 min, sleep 22:15, walk with family."
+      }
+    },
+    {
+      "id": "D100",
+      "date": "2026-08-01",
+      "author": "Rachel",
+      "category": "Exercise",
+      "decision": "Stored and auto-activated Seoul micro-split template for dense-travel days",
+      "trigger_event": "Positive adherence with Seoul micro-split workouts",
+      "reason": "Provide time-efficient template during dense travel periods",
+      "expected_outcome": "Sustain consistent training adherence while traveling",
+      "source_chat": {
+        "date": "2026-08-01 07:40",
+        "excerpt": "Stored template auto-activates when tag = 'dense-travel'."
+      }
+    },
+    {
+      "id": "D101",
+      "date": "2026-08-03",
+      "author": "Advik",
+      "category": "Diagnostics",
+      "decision": "Delivered and set up Oura Ring Gen4 for sleep staging and recovery tracking",
+      "trigger_event": "Oura Ring Gen4 device delivery",
+      "reason": "Enhance sleep staging accuracy and combine data insights with Garmin",
+      "expected_outcome": "More accurate recovery insights, improved sleep interventions",
+      "source_chat": {
+        "date": "2026-08-03 08:05",
+        "excerpt": "Oura Ring Gen-4 arrived; setup call at 19:30."
+      }
+    },
+    {
+      "id": "D102",
+      "date": "2026-08-04",
+      "author": "Carla",
+      "category": "Nutrition",
+      "decision": "Swap Monday salmon with mackerel to improve Vitamin D content",
+      "trigger_event": "Chef request to boost dietary Vitamin D levels toward goal",
+      "reason": "Mackerel is richer in Vitamin D than salmon; dietary optimization aids deficiency correction",
+      "expected_outcome": "Support Vitamin D improvement toward \u226550 ng/mL by October",
+      "source_chat": {
+        "date": "2026-08-04 07:55",
+        "excerpt": "Chef: swap salmon \u2192 mackerel for Vit D target."
+      }
+    },
+    {
+      "id": "D103",
+      "date": "2026-08-05",
+      "author": "Rachel",
+      "category": "Exercise",
+      "decision": "Programme F v1.3 progression: DL 95 kg, tempo Bulgarian split squat +2 kg DB, add 4\u00d740 m shuttle-run finisher",
+      "trigger_event": "Bi-weekly strength program progression",
+      "reason": "Progressive overload for strength and conditioning with added speed endurance stimulus",
+      "expected_outcome": "Improved strength capacity, muscular endurance, and speed",
+      "source_chat": {
+        "date": "2026-08-05 06:48",
+        "excerpt": "DL 95 kg, tempo split squat, shuttle-run finisher."
+      }
+    },
+    {
+      "id": "D104",
+      "date": "2026-08-06",
+      "author": "Advik",
+      "category": "Sleep",
+      "decision": "Recommend \u22652.5 h restorative sleep nightly; support with glycine + tart-cherry combo",
+      "trigger_event": "Oura Ring showed only 2h 02m restorative sleep",
+      "reason": "Nutritional supplements can improve sleep onset and restorative phase duration",
+      "expected_outcome": "Increase restorative sleep by ~15%, support recovery and cognition",
+      "source_chat": {
+        "date": "2026-08-06 21:22",
+        "excerpt": "Aim \u22652.5 h/night; glycine + tart-cherry should boost ~15%."
+      }
+    },
+    {
+      "id": "D105",
+      "date": "2026-08-07",
+      "author": "Rachel",
+      "category": "Exercise",
+      "decision": "Scheduled Jakarta day-trip micro-split workout at 05:45 pre-airport",
+      "trigger_event": "One-day Jakarta business trip on tight schedule",
+      "reason": "Early micro-split allows adherence despite compressed itinerary",
+      "expected_outcome": "Preserve workout streak during single-day travel",
+      "source_chat": {
+        "date": "2026-08-07 08:15",
+        "excerpt": "Jakarta trip; micro-split 05:45 pre-airport."
+      }
+    },
+    {
+      "id": "D106",
+      "date": "2026-08-08",
+      "author": "Carla",
+      "category": "Nutrition",
+      "decision": "For BBQ meals: NAC 600 mg + leafy greens to blunt hs-CRP elevation",
+      "trigger_event": "Anticipated weekend BBQ meal",
+      "reason": "NAC and vegetables reduce oxidative and inflammatory load of grilled foods",
+      "expected_outcome": "Maintain hs-CRP <1.0 mg/L trend into October panel",
+      "source_chat": {
+        "date": "2026-08-08 19:40",
+        "excerpt": "BBQ protocol: NAC 600 mg + greens."
+      }
+    },
+    {
+      "id": "D107",
+      "date": "2026-08-16",
+      "author": "Carla",
+      "category": "Nutrition",
+      "decision": "US travel breakfast: Egg White Grill at hotel cafe, skip pancakes, add vinegar water",
+      "trigger_event": "Member asked for US breakfast guidance",
+      "reason": "Protein-rich option reduces refined carbohydrate load, vinegar blunts glycemic spike",
+      "expected_outcome": "More stable glucose and satiety at breakfast",
+      "source_chat": {
+        "date": "2026-08-16 08:04",
+        "excerpt": "US breakfast: Egg White Grill, skip pancakes, vinegar water."
+      }
+    },
+    {
+      "id": "D108",
+      "date": "2026-08-17",
+      "author": "Rachel",
+      "category": "Exercise",
+      "decision": "Programme F v1.4 SFO splits: AM mobility + push-ups, PM kettlebell complex; both = one strength session",
+      "trigger_event": "US travel reduced gym access",
+      "reason": "Split sessions preserve strength volume across the day",
+      "expected_outcome": "Maintain strength adaptations during travel with minimal load",
+      "source_chat": {
+        "date": "2026-08-17 07:40",
+        "excerpt": "SFO micro-split: AM mobility/push-ups + PM kettlebell complex."
+      }
+    },
+    {
+      "id": "D109",
+      "date": "2026-08-18",
+      "author": "Carla",
+      "category": "Nutrition",
+      "decision": "Halve pasta portions, add salad starter, post-meal 10 min walk",
+      "trigger_event": "CGM glucose spike 165 mg/dL after pasta dinner",
+      "reason": "Reduce glycemic load and promote post-meal glucose control",
+      "expected_outcome": "Future pasta meals capped at \u2264145 mg/dL glucose",
+      "source_chat": {
+        "date": "2026-08-18 21:15",
+        "excerpt": "Cut pasta half, add salad, 10 min walk."
+      }
+    },
+    {
+      "id": "D110",
+      "date": "2026-08-20",
+      "author": "Dr Warren",
+      "category": "Diagnostics",
+      "decision": "Continue current protocol; scheduled HbA1c confirmation in October",
+      "trigger_event": "Isolated CGM spike reported by Rohan",
+      "reason": "Single excursion not concerning; HbA1c provides stronger long-term glycemic index",
+      "expected_outcome": "Clarity on glucose control trajectory in October labs",
+      "source_chat": {
+        "date": "2026-08-20 12:22",
+        "excerpt": "165 mg/dL single spike not worrisome; HbA1c October panel."
+      }
+    },
+    {
+      "id": "D111",
+      "date": "2026-08-22",
+      "author": "Ruby",
+      "category": "Recovery",
+      "decision": "Home recovery day: sauna 20 min, 100 ml tart-cherry juice, in-bed 21:45",
+      "trigger_event": "Return home after consecutive travel weeks",
+      "reason": "Support post-travel recovery, reduce inflammation and aid sleep",
+      "expected_outcome": "Improved recovery, longer sleep, reduced inflammatory load",
+      "source_chat": {
+        "date": "2026-08-22 08:18",
+        "excerpt": "Recovery: sauna + tart cherry + early sleep."
+      }
+    },
+    {
+      "id": "D112",
+      "date": "2026-08-23",
+      "author": "Rachel",
+      "category": "Exercise",
+      "decision": "Reintroduced plyometrics: 2\u00d720 cm hops after ankle cleared",
+      "trigger_event": "Ankle retest showed pain \u22641/10 during squat & hops",
+      "reason": "Safe reintroduction of plyometric load once ankle tolerated low-intensity moves",
+      "expected_outcome": "Gradual build to full plyo phase restoring explosiveness",
+      "source_chat": {
+        "date": "2026-08-23 07:24",
+        "excerpt": "Plyos back Wed, start 2\u00d720 cm hops."
+      }
+    },
+    {
+      "id": "D113",
+      "date": "2026-08-24",
+      "author": "Advik",
+      "category": "Sleep",
+      "decision": "Maintain caffeine cutoff 11:30 after achieving 7 h streak and HRV rebound",
+      "trigger_event": "Two consecutive nights \u22657 h sleep + HRV rebound to 55 ms",
+      "reason": "Earlier cutoff correlated with sleep extension and HRV gains",
+      "expected_outcome": "Sustain \u22657 h average sleep and recovery metrics",
+      "source_chat": {
+        "date": "2026-08-24 06:55",
+        "excerpt": "Sleep 7 h streak, HRV rebound 55. Keep caffeine cutoff 11:30."
+      }
+    },
+    {
+      "id": "D114",
+      "date": "2026-08-25",
+      "author": "Carla",
+      "category": "Nutrition",
+      "decision": "Continue cooled rice salad 2\u00d7/week as resistant starch source",
+      "trigger_event": "Positive reception to cooled rice salad protocol",
+      "reason": "Resistant starch enhances satiety, improves glucose tolerance and microbiome health",
+      "expected_outcome": "Stabilized postprandial glucose, beneficial gut impact",
+      "source_chat": {
+        "date": "2026-08-25 19:30",
+        "excerpt": "Chef confirmed cooled rice salad well-received; continue twice/week."
+      }
+    },
+    {
+      "id": "D115",
+      "date": "2026-08-27",
+      "author": "Rachel",
+      "category": "Exercise",
+      "decision": "Programme F v1.5: DL milestone 100 kg, add 50-cal row finisher, resume full-volume plyos if ankle pain \u22642/10",
+      "trigger_event": "Bi-weekly program update, ankle nearing clearance",
+      "reason": "Incremental heavy lift and cardio finisher balance strength-power adaptations",
+      "expected_outcome": "Improved strength, aerobic capacity, and ankle resilience",
+      "source_chat": {
+        "date": "2026-08-27 06:48",
+        "excerpt": "DL 100 kg, add 50-cal row, plyos if \u22642/10 pain."
+      }
+    },
+    {
+      "id": "D116",
+      "date": "2026-10-15",
+      "author": "Dr Warren",
+      "category": "Medication",
+      "decision": "If October panel shows ApoB \u2265110 mg/dL or HbA1c \u22655.7%, initiate therapy (rosuvastatin 10 mg daily for lipids, berberine 500 mg BID for glucose as indicated)",
+      "trigger_event": "Upcoming October 12 full panel will reassess lipid and glycemic control",
+      "reason": "Escalate to pharmacological support only if biomarkers worsen despite consistent lifestyle adherence",
+      "expected_outcome": "Statin lowers ApoB by 20\u201330% within 12 weeks; berberine reduces postprandial glucose by ~15% within 2\u20133 months",
+      "source_chat": {
+        "date": "2026-08-20 12:22",
+        "excerpt": "Plan: continue protocol, HbA1c and ApoB re-check October. Escalate if outside target."
+      }
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+/* src/components/Dashboard/OverviewView/HealthSummary/HealthSummary.css */
+.health-summary {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.summary-card {
+  background-color: var(--card-bg);
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: var(--shadow-sm);
+}
+
+.summary-card.primary {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+  color: white;
+}
+
+.score-container h3 {
+  font-size: 1.125rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.score-circle {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 0.75rem;
+}
+
+.score-circle span {
+  font-size: 2.25rem;
+  font-weight: 700;
+}
+
+.trend-badge {
+  font-size: 0.75rem;
+  padding: 0.25rem 0.5rem;
+  border-radius: 9999px;
+  background: rgba(255, 255, 255, 0.2);
+  margin-top: 0.25rem;
+}
+
+.trend-badge.up {
+  color: #a7f3d0;
+}
+
+.score-description {
+  font-size: 0.875rem;
+  opacity: 0.9;
+}
+
+.score-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.detail-item {
+  margin-bottom: 1rem;
+}
+
+.detail-label {
+  display: block;
+  font-size: 0.8125rem;
+  opacity: 0.8;
+  margin-bottom: 0.25rem;
+}
+
+.detail-value {
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.risk-factors h3 {
+  font-size: 1.125rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.risk-list {
+  list-style: none;
+}
+
+.risk-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.75rem 0;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.risk-item:last-child {
+  border-bottom: none;
+}
+
+.risk-name {
+  font-weight: 500;
+  flex: 1;
+}
+
+.risk-level {
+  font-size: 0.8125rem;
+  padding: 0.25rem 0.5rem;
+  border-radius: 9999px;
+  margin-right: 1rem;
+}
+
+.risk-level.moderate {
+  background-color: #fef3c7;
+  color: #92400e;
+}
+
+.risk-level.low {
+  background-color: #d1fae5;
+  color: #065f46;
+}
+
+.risk-trend {
+  font-size: 0.8125rem;
+  width: 90px;
+  text-align: right;
+}
+
+.risk-trend.improving {
+  color: var(--secondary-color);
+}
+
+.risk-trend.monitoring {
+  color: var(--warning-color);
+}
+
+@media (max-width: 1024px) {
+  .health-summary {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 768px) {
+  .summary-card.primary {
+    grid-template-columns: 1fr;
+  }
+}

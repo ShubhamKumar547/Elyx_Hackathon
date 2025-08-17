@@ -1,0 +1,101 @@
+.ComponentSaveUserData-container {
+  background: #f8fafc;
+  border-radius: 16px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.07);
+  padding: 32px;
+  /* max-width: 600px;
+   */
+  width: 100%;
+  margin: 32px auto;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.ComponentSaveUserData-title {
+  font-size: 2rem;
+  color: #2193b0;
+  margin-bottom: 24px;
+  text-align: center;
+}
+
+.ComponentSaveUserData-form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.ComponentSaveUserData-field {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.ComponentSaveUserData-input {
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #b0bec5;
+  font-size: 1rem;
+}
+
+.ComponentSaveUserData-textarea {
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #b0bec5;
+  font-size: 1rem;
+  resize: vertical;
+}
+
+.ComponentSaveUserData-btn {
+  background: linear-gradient(90deg, #2193b0 0%, #6dd5ed 100%);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 12px 0;
+  font-size: 1.1rem;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.ComponentSaveUserData-btn:disabled {
+  background: #b0bec5;
+  cursor: not-allowed;
+}
+
+.ComponentSaveUserData-stages {
+  margin-top: 32px;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(33, 147, 176, 0.08);
+  padding: 20px;
+}
+
+.ComponentSaveUserData-stages h3 {
+  color: #2193b0;
+  margin-bottom: 16px;
+  font-size: 1.2rem;
+}
+
+.ComponentSaveUserData-stages ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.ComponentSaveUserData-stage {
+  color: #78909c;
+  padding: 8px 0;
+  font-size: 1rem;
+}
+
+.ComponentSaveUserData-stage-active {
+  color: #2193b0;
+  font-weight: bold;
+  background: #e3f2fd;
+  border-radius: 6px;
+  padding: 8px 0;
+}
+
+.ComponentSaveUserData-stage-complete {
+  color: #43a047;
+  text-decoration: line-through;
+  padding: 8px 0;
+}

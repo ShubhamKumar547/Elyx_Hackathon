@@ -1,0 +1,16 @@
+/* src/components/Dashboard/OverviewView/OverviewView.css */
+.overview-view {
+  padding: 1.5rem;
+}
+
+.dashboard-sections {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+@media (max-width: 768px) {
+  .overview-view {
+    padding: 1rem;
+  }
+}
