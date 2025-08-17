@@ -10,8 +10,10 @@
   --card-bg: #ffffff;
   --border-color: #e2e8f0;
   --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
-  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
-  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+    0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+    0 4px 6px -2px rgba(0, 0, 0, 0.05);
 }
 
 * {
@@ -21,7 +23,8 @@
 }
 
 body {
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, sans-serif;
   line-height: 1.5;
   color: var(--text-color);
   background-color: var(--bg-color);
@@ -97,9 +100,12 @@ body {
   margin-top: 2rem;
 }
 
-.trend-view, .chatbot-view, .internal-metrics-view, .persona-details-view {
+.trend-view,
+.chatbot-view,
+.internal-metrics-view,
+.persona-details-view {
   padding: 2rem;
-  width:100%;
+  width: 100%;
   background-color: var(--card-bg);
   border-radius: 12px;
   box-shadow: var(--shadow-md);
@@ -490,7 +496,8 @@ table {
   border-collapse: collapse;
 }
 
-th, td {
+th,
+td {
   padding: 0.75rem 1rem;
   text-align: left;
   border-bottom: 1px solid var(--border-color);
@@ -613,15 +620,15 @@ th {
   .health-summary {
     grid-template-columns: 1fr;
   }
-  
+
   .section-content {
     flex-direction: column;
   }
-  
+
   .chart-row {
     flex-direction: column;
   }
-  
+
   .half-width {
     width: 100%;
   }
@@ -633,12 +640,12 @@ th {
     align-items: flex-start;
     gap: 0.5rem;
   }
-  
+
   .dashboard-tabs {
     overflow-x: auto;
     padding-bottom: 0.5rem;
   }
-  
+
   .summary-card.primary {
     grid-template-columns: 1fr;
   }
@@ -648,11 +655,11 @@ th {
   .dashboard-container {
     padding: 1rem;
   }
-  
+
   .dashboard-header h1 {
     font-size: 1.5rem;
   }
-  
+
   .tab-btn {
     padding: 0.5rem 1rem;
     font-size: 0.875rem;

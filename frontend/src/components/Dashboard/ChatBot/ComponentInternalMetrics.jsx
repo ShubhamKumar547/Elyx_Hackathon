@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+// import axios from "axios";
 import "./ComponentInternalMetrics.css";
 
 const ComponentInternalMetrics = () => {
@@ -8,50 +9,21 @@ const ComponentInternalMetrics = () => {
 
   useEffect(() => {
     const fetchMetrics = async () => {
+      setLoading(true);
+      setError(null);
       try {
-        await new Promise((resolve) => setTimeout(resolve, 1500));
-
-        const mockData = {
-          Physician_Hours: {
-            Jan_2026: 6.33,
-            Feb_2026: 6.33,
-            Mar_2026: 6.33,
-            Apr_2026: 1.5,
-            May_2026: 1.5,
-            Jun_2026: 4.2,
-            Jul_2026: 3.0,
-            Aug_2026: 3.1,
-          },
-          Coach_PT_Hours: {
-            Jan_2026: 7.0,
-            Feb_2026: 7.0,
-            Mar_2026: 7.0,
-            Apr_2026: 2.2,
-            May_2026: 2.2,
-            Jun_2026: 6.0,
-            Jul_2026: 5.2,
-            Aug_2026: 5.6,
-          },
-          Concierge_Hours: {
-            Jan_2026: null,
-            Feb_2026: null,
-            Mar_2026: null,
-            Apr_2026: 1.5,
-            May_2026: 1.5,
-            Jun_2026: 5.1,
-            Jul_2026: 5.5,
-            Aug_2026: 5.0,
-          },
-        };
-
-        setMetrics(mockData);
-        setLoading(false);
+        const res = await fetch(`${import.meta.env.VITE_API_BASE_URL}/data/internalMetrics`);
+        const data = await res.json();
+        if (data.success) {
+          setMetrics(data.data);
+        } else {
+          setError('Failed to fetch internal metrics');
+        }
       } catch (err) {
-        setError(err.message);
-        setLoading(false);
+        setError(err.message || 'Error fetching internal metrics');
       }
+      setLoading(false);
     };
-
     fetchMetrics();
   }, []);
 

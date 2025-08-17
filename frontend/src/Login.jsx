@@ -1,14 +1,14 @@
-import React, { useState, useEffect } from 'react';
-import MedicineImage from './assets/Medicine-cuate.png';
-import { useNavigate, Link } from 'react-router-dom';
-import './Login.css';
+import React, { useState, useEffect } from "react";
+import MedicineImage from "./assets/Medicine-cuate.png";
+import { useNavigate, Link } from "react-router-dom";
+import "./Login.css";
 
 function Login() {
   const [formData, setFormData] = useState({
-    username: '',
-    password: ''
+    username: "",
+    password: "",
   });
-  const [error, setError] = useState('');
+  const [error, setError] = useState("");
   const [isLoading, setIsLoading] = useState(false);
   const [passwordVisible, setPasswordVisible] = useState(false);
   const navigate = useNavigate();
@@ -23,15 +23,42 @@ function Login() {
 
   const handleChange = (e) => {
     const { name, value } = e.target;
-    setFormData(prev => ({
+    setFormData((prev) => ({
       ...prev,
-      [name]: value
+      [name]: value,
     }));
   };
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
-    navigate("/dashboard");
+    setIsLoading(true);
+    setError("");
+    try {
+      const response = await fetch("http://localhost:5000/api/auth/login", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          username: formData.username,
+          password: formData.password,
+        }),
+      });
+      const data = await response.json();
+      if (response.ok && data.success) {
+        // Set isValidUser flag in localStorage
+        localStorage.setItem("isValidUser", "true");
+        console.log("login successful");
+        navigate("/dashboard");
+      } else {
+        localStorage.setItem("isValidUser", "false");
+        setError(data.message || "Login failed. Please try again.");
+      }
+    } catch (err) {
+      localStorage.setItem("isValidUser", "false");
+      setError("Network error. Please try again later.");
+    }
+    setIsLoading(false);
   };
 
   const togglePasswordVisibility = () => {
@@ -42,10 +69,10 @@ function Login() {
     <div className="login-container">
       <div className="login-image-section">
         <div className="login-image-content">
-          <img 
-            src={MedicineImage} 
-            alt="elyx Medicine AI" 
-            className="login-image" 
+          <img
+            src={MedicineImage}
+            alt="elyx Medicine AI"
+            className="login-image"
             loading="lazy"
           />
           <h1 className="elyx-header">elyx- Nural Nomads</h1>
@@ -54,7 +81,7 @@ function Login() {
           </blockquote>
         </div>
       </div>
-      
+
       <div className="login-card">
         <header className="login-header">
           <h2>Welcome Back</h2>
@@ -83,7 +110,7 @@ function Login() {
               <input
                 id="password"
                 name="password"
-                type={passwordVisible ? 'text' : 'password'}
+                type={passwordVisible ? "text" : "password"}
                 placeholder="Enter your password"
                 value={formData.password}
                 onChange={handleChange}
@@ -92,24 +119,24 @@ function Login() {
                 aria-required="true"
                 minLength="6"
               />
-              <button 
-                type="button" 
+              <button
+                type="button"
                 className="password-toggle"
                 onClick={togglePasswordVisibility}
-                aria-label={passwordVisible ? 'Hide password' : 'Show password'}
+                aria-label={passwordVisible ? "Hide password" : "Show password"}
               >
-                {passwordVisible ? '👁️' : '👁️‍🗨️'}
+                {passwordVisible ? "👁️" : "👁️‍🗨️"}
               </button>
             </div>
             {/* Forgot password link removed */}
           </div>
 
-          <button 
-            type="submit" 
+          <button
+            type="submit"
             className="login-btn"
             disabled={isLoading || !formData.username || !formData.password}
           >
-            {isLoading ? 'Logging in...' : 'Login'}
+            {isLoading ? "Logging in..." : "Login"}
           </button>
 
           {error && (
@@ -119,7 +146,7 @@ function Login() {
           )}
         </form>
 
-  {/* Register link and footer removed */}
+        {/* Register link and footer removed */}
       </div>
     </div>
   );

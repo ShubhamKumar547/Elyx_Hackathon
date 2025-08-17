@@ -8,6 +8,14 @@ import ComponentHealthIdDropdown from "./Utility/ComponentHealthIdDropdown";
 import ComponentSaveUserData from "./components/Dashboard/ChatBot/ComponentSaveUserData";
 
 function Dashboard() {
+  // Redirect to login if not authenticated
+  if (
+    typeof window !== "undefined" &&
+    localStorage.getItem("isValidUser") !== "true"
+  ) {
+    window.location.href = "/login";
+    return null;
+  }
   const [activeTab, setActiveTab] = useState("trend");
   const [selectedUser, setSelectedUser] = useState(null);
 
@@ -58,7 +66,6 @@ function Dashboard() {
               >
                 Persona Details
               </button>
-              
             </div>
 
             <main className="dashboard-content">

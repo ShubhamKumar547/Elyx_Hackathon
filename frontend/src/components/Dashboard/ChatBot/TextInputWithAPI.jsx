@@ -39,6 +39,19 @@ const TextInputWithAPI = () => {
     }
   };
 
+  // Helper to render **bold** text
+  const renderBoldText = (text) => {
+    if (typeof text !== 'string') return text;
+    // Replace **text** with <strong>text</strong>
+    const parts = text.split(/(\*\*[^*]+\*\*)/g);
+    return parts.map((part, i) => {
+      if (/^\*\*[^*]+\*\*$/.test(part)) {
+        return <strong key={i}>{part.slice(2, -2)}</strong>;
+      }
+      return part;
+    });
+  };
+
   const renderResponseData = (data) => {
     if (!data) return null;
     
@@ -49,7 +62,7 @@ const TextInputWithAPI = () => {
             <div key={key} className="text-input-with-api__response-item">
               <span className="text-input-with-api__response-key">{key}:</span>
               <span className="text-input-with-api__response-value">
-                {typeof value === 'object' ? JSON.stringify(value) : value}
+                {typeof value === 'object' ? JSON.stringify(value) : renderBoldText(value)}
               </span>
             </div>
           ))}
@@ -57,7 +70,7 @@ const TextInputWithAPI = () => {
       );
     }
     
-    return <div className="text-input-with-api__response-text">{data}</div>;
+    return <div className="text-input-with-api__response-text">{renderBoldText(data)}</div>;
   };
 
   return (

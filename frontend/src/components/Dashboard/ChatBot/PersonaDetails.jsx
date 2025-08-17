@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+// import axios from 'axios';
 import './PersonaDetails.css';
 
 const PersonaDetails = () => {
@@ -8,56 +9,21 @@ const PersonaDetails = () => {
 
   useEffect(() => {
     const fetchData = async () => {
+      setLoading(true);
+      setError(null);
       try {
-        await new Promise(resolve => setTimeout(resolve, 1500));
-        const mockData = {
-          "healthJourney": {
-            "member": "Rohan",
-            "timeline": [
-              {
-                "episode": 1,
-                "title": "Onboarding & Baseline Establishment",
-                "timePeriod": "January 2026",
-                "primaryGoal": "Establish comprehensive health baseline for cardiovascular and cognitive goals",
-                "triggeredBy": ["Elyx Concierge", "Member"],
-                "frictionPoints": [
-                  "Managing health during international travel (addressed with tailored advice)"
-                ],
-                "keyEvents": [
-                  "2026-01-22: Travel health advice provided",
-                  "2026-01-23: Additional travel support",
-                  "2026-01-14: Lifestyle-first approach agreed (statins deferred)"
-                ],
-                "outcomes": {
-                  "diagnostics": ["Blood panel completed", "CT scan completed"],
-                  "performance": ["Garmin data integrated"],
-                  "lifestyle": ["Nutrition baseline", "Mobility baseline"]
-                },
-                "personaEvolution": {
-                  "before": "New, engaged member seeking structured approach",
-                  "after": "Proactive data-literate partner co-designing program"
-                }
-              }
-            ],
-            "summaryMetrics": {
-              "wellnessScoreImprovement": "+43.2 points (Jan-Aug 2026)",
-              "keyAchievements": [
-                "ApoB under 100 without medication",
-                "100kg deadlift personal record",
-                "Validated lifestyle interventions via CGM"
-              ]
-            }
-          }
-        };
-
-        setPersonaData(mockData);
-        setLoading(false);
+        const res = await fetch(`${import.meta.env.VITE_API_BASE_URL}/data/personaDetails`);
+        const data = await res.json();
+        if (data.success) {
+          setPersonaData(data.data);
+        } else {
+          setError('Failed to fetch persona details');
+        }
       } catch (err) {
-        setError(err.message);
-        setLoading(false);
+        setError(err.message || 'Error fetching persona details');
       }
+      setLoading(false);
     };
-
     fetchData();
   }, []);
 
