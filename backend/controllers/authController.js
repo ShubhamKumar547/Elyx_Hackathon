@@ -1,4 +1,6 @@
 const { LOGIN_DETAILS } = require("../Data/loginDetails");
+const jwt = require("jsonwebtoken");
+require("dotenv").config();
 
 const loginUser = (req, res) => {
   const { username, password } = req.body;
@@ -9,10 +11,17 @@ const loginUser = (req, res) => {
   );
 
   if (user) {
+    // Generate JWT token
+    const token = jwt.sign(
+      { username: user.username },
+      process.env.JWT_SECRET,
+      { expiresIn: "20m" }
+    );
     // Login successful
     res.json({
       success: true,
       message: "Login successful",
+      token,
       user: {
         id: user.id,
         name: user.name,

@@ -12,7 +12,12 @@ const PersonaDetails = () => {
       setLoading(true);
       setError(null);
       try {
-        const res = await fetch(`${import.meta.env.VITE_API_BASE_URL}/data/personaDetails`);
+        const token = localStorage.getItem('accessToken');
+        const res = await fetch(`${import.meta.env.VITE_API_BASE_URL}/data/personaDetails`, {
+          headers: {
+            'Authorization': token ? `Bearer ${token}` : ''
+          }
+        });
         const data = await res.json();
         if (data.success) {
           setPersonaData(data.data);

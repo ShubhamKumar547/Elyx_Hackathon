@@ -48,6 +48,10 @@ function Login() {
       if (response.ok && data.success) {
         // Set isValidUser flag in localStorage
         localStorage.setItem("isValidUser", "true");
+        // Save JWT access token
+        if (data.token) {
+          localStorage.setItem("accessToken", data.token);
+        }
         console.log("login successful");
         navigate("/dashboard");
       } else {

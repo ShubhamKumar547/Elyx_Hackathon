@@ -16,7 +16,12 @@ const ComponentHealthIdDropdown = ({ onSelect }) => {
       try {
         let baseUrl = import.meta.env.VITE_API_BASE_URL;
         if (baseUrl.endsWith("/")) baseUrl = baseUrl.slice(0, -1);
-        const res = await fetch(`${baseUrl}/data/healthIds`);
+        const token = localStorage.getItem("accessToken");
+        const res = await fetch(`${baseUrl}/data/healthIds`, {
+          headers: {
+            Authorization: token ? `Bearer ${token}` : "",
+          },
+        });
         const data = await res.json();
         if (data.success) {
           setHealthIds(data.data);

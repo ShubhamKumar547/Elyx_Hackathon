@@ -12,7 +12,12 @@ const ComponentInternalMetrics = () => {
       setLoading(true);
       setError(null);
       try {
-        const res = await fetch(`${import.meta.env.VITE_API_BASE_URL}/data/internalMetrics`);
+        const token = localStorage.getItem('accessToken');
+        const res = await fetch(`${import.meta.env.VITE_API_BASE_URL}/data/internalMetrics`, {
+          headers: {
+            'Authorization': token ? `Bearer ${token}` : ''
+          }
+        });
         const data = await res.json();
         if (data.success) {
           setMetrics(data.data);

@@ -23,14 +23,38 @@ function Dashboard() {
     setSelectedUser(id);
   };
 
+  const handleLogout = () => {
+    localStorage.removeItem("accessToken");
+    localStorage.removeItem("isValidUser");
+    window.location.href = "/login";
+  };
+
   return (
     <div className="dashboard-container">
       <header className="dashboard-header">
         <div className="header-content">
-          <h1>Health Intelligence Dashboard</h1>
-          <p className="last-updated">
-            Last updated: {new Date().toLocaleString()}
-          </p>
+          <div>
+            <h1>Health Intelligence Dashboard</h1>
+            <p className="last-updated">
+              Last updated: {new Date().toLocaleString()}
+            </p>
+          </div>
+          <button
+            className="logout-btn"
+            onClick={handleLogout}
+            style={{
+              marginLeft: "auto",
+              background: "#e53e3e",
+              color: "#fff",
+              border: "none",
+              borderRadius: "4px",
+              padding: "8px 16px",
+              cursor: "pointer",
+              fontWeight: "bold",
+            }}
+          >
+            Logout
+          </button>
         </div>
 
         <ComponentHealthIdDropdown onSelect={handleUserSelection} />

@@ -1,6 +1,6 @@
-
 const express = require("express");
 const router = express.Router();
+const authMiddleware = require('../middleware/authMiddleware');
 
 // Dummy data imports (replace with actual data sources as needed)
 const USERS = require("../Data/user");
@@ -10,7 +10,7 @@ const PERSONA_DETAILS = require("../Data/personaAnalysis");
 
 
 // /data/healthIds - Get mock health ID data for dropdown
-router.get("/healthIds", (req, res) => {
+router.get("/healthIds", authMiddleware, (req, res) => {
   // Example mock data, replace with actual data source if needed
   const healthIds = [
     { id: "HID-78945612", name: "Rohan Sharma" },
@@ -22,7 +22,7 @@ router.get("/healthIds", (req, res) => {
 });
 
 // /data/users - Get user data
-router.get("/users", (req, res) => {
+router.get("/users", authMiddleware, (req, res) => {
   if (USERS) {
     res.json({ success: true, data: USERS });
   } else {
@@ -31,7 +31,7 @@ router.get("/users", (req, res) => {
 });
 
 // /data/trend - Get trend data
-router.get("/trend", (req, res) => {
+router.get("/trend", authMiddleware, (req, res) => {
   if (TRENDS) {
     res.json({ success: true, data: TRENDS });
   } else {
@@ -40,7 +40,7 @@ router.get("/trend", (req, res) => {
 });
 
 // /data/internalMetrics - Get internal metrics data
-router.get("/internalMetrics", (req, res) => {
+router.get("/internalMetrics", authMiddleware, (req, res) => {
   if (INTERNAL_METRICS) {
     res.json({ success: true, data: INTERNAL_METRICS });
   } else {
@@ -49,7 +49,7 @@ router.get("/internalMetrics", (req, res) => {
 });
 
 // /data/personaDetails - Get persona details data
-router.get("/personaDetails", (req, res) => {
+router.get("/personaDetails", authMiddleware, (req, res) => {
   if (PERSONA_DETAILS) {
     res.json({ success: true, data: PERSONA_DETAILS });
   } else {
