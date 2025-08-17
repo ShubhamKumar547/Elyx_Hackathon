@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './TextInputWithAPI.css';
 
-const BACKEND_URL = 'http://localhost:5000/api/pipeline/processCallsQuestions';
+const BACKEND_URL = `${import.meta.env.VITE_API_BASE_URL}/pipeline/processCallsQuestions`;
 
 const TextInputWithAPI = () => {
   const [inputValue, setInputValue] = useState('');
