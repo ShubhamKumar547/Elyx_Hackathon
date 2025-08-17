@@ -6,7 +6,7 @@ const bodyParser = require('body-parser');
 // const HealthData = require('./models/HealthData');
 
 const authRoutes = require('./routes/auth');
-// const dataRoutes = require('./routes/data');
+const dataRoutes = require('./routes/data');
 const pipelineRoutes = require('./routes/pipeline');
 
 const app = express();
@@ -21,7 +21,7 @@ app.use(bodyParser.json());
 
 // Routes
 app.use('/api/auth', authRoutes);
-// app.use('/api/data', dataRoutes);
+app.use('/api/data', dataRoutes);
 app.use('/api/pipeline', pipelineRoutes);
 
 app.get('/', (req, res) => {

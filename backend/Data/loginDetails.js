@@ -1,4 +1,4 @@
-const login = {
+const LOGIN_DETAILS = {
   admins: [
     {
       id: 1,

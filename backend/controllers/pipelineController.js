@@ -24,7 +24,7 @@ async function processPipeline(req, res) {
     const decisions = data.decisions || [];
     const simplifiedDecisions = simplifyDecisions(decisions);
     const decisionsJson = JSON.stringify(simplifiedDecisions);
-    const context = `Member decisions data as JSON array: ${decisionsJson}\n\nQuestion: ${question} &  Answer the question in about 80 word only`;
+    const context = `Member decisions data as JSON array: ${decisionsJson}\n\nQuestion: ${question} &  Answer the question in about 80 word only && write important points in the bold letters && never return any response to me about the context instructoions jsu give me the data that you think about the question i asked  `;
 
     // Gemini API call
     const geminiResponse = await fetch(GEMINI_API_URL, {
