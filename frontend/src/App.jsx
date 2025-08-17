@@ -5,7 +5,7 @@ import './App.css'
 import { Routes, Route, Navigate } from 'react-router-dom';
 import Login from './Login';
 import Dashboard from './Dashboard';
-import Registration from './Registration';
+// import Registration from './Registration';
 
 function App() {
   const [count, setCount] = useState(0)
