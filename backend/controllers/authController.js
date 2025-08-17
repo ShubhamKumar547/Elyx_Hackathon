@@ -1,6 +1,6 @@
 const jwt = require('jsonwebtoken');
 const SECRET = process.env.JWT_SECRET || 'elyx_secret';
-const User = require('../models/User');
+// const User = require('../models/User');
 
 exports.register = async (req, res) => {
   const { username, password, email, name, mobile, healthId } = req.body;

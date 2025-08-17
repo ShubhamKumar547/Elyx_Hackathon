@@ -1,12 +1,12 @@
 const express = require('express');
 const cors = require('cors');
 const bodyParser = require('body-parser');
-const connectDB = require('./models/db');
-const User = require('./models/User');
-const HealthData = require('./models/HealthData');
+// const connectDB = require('./models/db');
+// const User = require('./models/User');
+// const HealthData = require('./models/HealthData');
 
 const authRoutes = require('./routes/auth');
-const dataRoutes = require('./routes/data');
+// const dataRoutes = require('./routes/data');
 const pipelineRoutes = require('./routes/pipeline');
 
 const app = express();
@@ -21,7 +21,7 @@ app.use(bodyParser.json());
 
 // Routes
 app.use('/api/auth', authRoutes);
-app.use('/api/data', dataRoutes);
+// app.use('/api/data', dataRoutes);
 app.use('/api/pipeline', pipelineRoutes);
 
 app.get('/', (req, res) => {
