@@ -1,9 +1,36 @@
-
 # Neural Nomad — Elyx Life Hackathon
+
+## Demo Login Credentials
+
+**Username:** alex_admin  
+**Password:** Admin@Secure123
+
+**Username:** sarah_admin  
+**Password:** S@rahPass2025
+
+**Username:** michael_admin  
+**Password:** M1ch@elAdm!n
+
+---
 
 Submission for the Elyx Life Hackathon 2025 by Team Neural Nomad.
 
 A web app that visualizes a member’s health journey and operationalizes multidisciplinary care with transparent, data-driven decisions.
+
+## Demo Working (Screenshots)
+
+<p align="center">
+  <img src="frontend/src/assets/snapshots/Screenshot 2025-08-18 003843.png" width="400" />
+  <img src="frontend/src/assets/snapshots/Screenshot 2025-08-18 005758.png" width="400" />
+  <img src="frontend/src/assets/snapshots/Screenshot 2025-08-18 012759.png" width="400" />
+  <img src="frontend/src/assets/snapshots/Screenshot 2025-08-18 052712.png" width="400" />
+  <img src="frontend/src/assets/snapshots/Screenshot 2025-08-18 052726.png" width="400" />
+  <img src="frontend/src/assets/snapshots/Screenshot 2025-08-18 052744.png" width="400" />
+  <img src="frontend/src/assets/snapshots/Screenshot 2025-08-18 052801.png" width="400" />
+  <img src="frontend/src/assets/snapshots/Screenshot 2025-08-18 052813.png" width="400" />
+</p>
+
+---
 
 ## Core Features
 

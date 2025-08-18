@@ -40,10 +40,10 @@ async function processPipeline(req, res) {
     let answer = '';
     if (geminiData && geminiData.candidates && geminiData.candidates[0] && geminiData.candidates[0].content && geminiData.candidates[0].content.parts[0].text) {
       answer = geminiData.candidates[0].content.parts[0].text;
-      console.log('Gemini API success:', answer);
+      // console.log('Gemini API success:', answer);
     } else {
       answer = JSON.stringify(geminiData);
-      console.log('Gemini API response (no answer):', answer);
+      // console.log('Gemini API response (no answer):', answer);
     }
     res.json({ success: true, answer });
   } catch (error) {
