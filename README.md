@@ -14,6 +14,7 @@ Team Members: 1.Shubham Kumar 2.Aditya Padhi
 
 ---
 
+**Chats** - [View chats.txt](./backend/Data/chats.txt)
 Submission for the Elyx Life Hackathon 2025 by Team Neural Nomad.
 
 A web app that visualizes a member’s health journey and operationalizes multidisciplinary care with transparent, data-driven decisions.

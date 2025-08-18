@@ -1,0 +1,1611 @@
+[2026-01-02 07:52] Ruby (Concierge):
+Good morning Rohan 🙂 Welcome to Elyx! Since this is Week 1 onboarding, I’ve shared two e-sign links: (1) medical-release form, (2) baseline questionnaire. Once complete, we’ll confirm your full diagnostic panel, physical exam, and scan suite. Sarah (your PA) is looped in for scheduling.
+
+[2026-01-02 08:04] Rohan Patel:
+Forms received, I’ll finish them after school drop-off. Quick one: is my Garmin data already streaming to you?
+
+[2026-01-02 08:06] Ruby:
+Not yet. Open Garmin → Settings → Data Sharing → “Elyx Health”. Ping me when toggled, and Advik will start crunching baselines (HRV, sleep, training load).
+
+[2026-01-02 08:45] Advik (Performance Scientist):
+Morning Rohan! Once the feed is live, I’ll extract the past 90 days of HRV, VO₂max, and training data to benchmark your performance metrics—important for your Dec 2026 cardiovascular and June 2026 cognitive targets.
+
+[2026-01-02 09:13] Rohan Patel:
+Done—data sharing is on.
+
+[2026-01-03 18:30] Carla (Nutritionist):
+Hi Rohan, Carla here. For baseline diet analysis, could you log three typical workdays in MyFitnessPal? We’ll check lipid balance, Omega-3 intake, and glucose load. This will help target your ApoB and OGTT markers.
+
+[2026-01-03 18:41] Rohan Patel:
+Sure. I already logged today’s meals—will keep going.
+
+[2026-01-04 06:55] Rachel (Physio/PT):
+Hey Rohan 👋 As part of onboarding, please record 3 short videos: bodyweight squat, overhead reach, and plank hold. We’ll do a functional mobility screen, track ankle/knee mechanics, and set Week 2–4 exercise baselines.
+
+[2026-01-04 08:02] Rohan Patel:
+Will do after my run tomorrow.
+
+[2026-01-05 11:10] Rohan Patel:
+Any update on the full diagnostic panel date? I’m travelling end of Jan.
+
+[2026-01-05 11:18] Ruby:
+Confirmed: diagnostic blood panel + OGTT Fri 10 Jan, 07:30 at Gleneagles. Full physical exam with Dr Warren right after. Coronary CT scheduled 13 Jan.
+
+[2026-01-05 11:22] Rohan Patel:
+Perfect. Please lock it in Sarah’s calendar.
+
+[2026-01-06 20:48] Dr Warren (Physician):
+Evening Rohan. Based on your intake (family history of MI at 58), we’re adding ApoB, Lp(a), and a non-contrast coronary calcium CT. Phlebotomy + scans as Ruby noted. Low-dose radiation,  important preventive measure.
+
+[2026-01-06 21:03] Rohan Patel:
+Understood. Fine with extra dose if justified.
+
+[2026-01-06 21:07] Dr Warren:
+Yes, minimal risk (~1 mSv). The benefit of early detection outweighs it. We’ll repeat only every 5 years unless scores are high.
+
+[2026-01-07 07:00] Rohan Patel:
+I've read about the importance of biological age vs chronological age. Can you explain how my TruAge test correlates with my lifestyle changes?
+
+[2026-01-07 07:12] Dr Warren (Physician):
+Great question, Rohan! Your TruAge test uses epigenetic markers and correlates strongly with lifestyle factors like diet, exercise, and sleep. We’ll monitor changes closely over time to see improvements or risks.
+
+[2026-01-07 07:21] Rohan Patel:
+My Garmin flagged low HRV (36 ms). Likely jet-lag from Seoul + coffee. Any fast recovery tip?
+
+[2026-01-07 07:40] Advik:
+Correct. Take a 20-min Zone-1 jog today, avoid intensity. Magnesium glycinate 500 mg pre-bed. Shut down 23:00 latest to protect restorative sleep.  Jet-lag HRV dip, recover in 48h.
+
+[2026-01-10 07:22] Ruby:
+Hi Rohan, welcome at Gleneagles reception. Samples today = full biomarker suite incl. OGTT, ApoB, vitamin D, thyroid, hormones, micronutrients. Text me when complete.
+
+[2026-01-10 09:58] Rohan:
+Blood draw & physical exam just done. CT coming Monday?
+
+[2026-01-10 10:01] Ruby:
+Yes, 13 Jan 08:00. Your PA Sarah has details.
+
+[2026-01-10 15:45] Rohan Patel:
+Wondering if sleep quality from Garmin can detect subtle stress on recovery. How are you integrating this into my stress resilience scoring?
+
+[2026-01-10 16:00] Advik (Performance Scientist):
+Absolutely, Rohan. Garmin sleep data is integrated with HRV and subjective reports to provide a comprehensive stress resilience score we review weekly. Fluctuations guide recovery recommendations.
+
+[2026-01-11 14:16] Carla:
+Reviewed your food logs. Dinners are saturated-fat heavy. Suggest: swap ghee→avocado oil 3×/week, add chia+flax to breakfast. These are simple lipid-friendly tweaks supporting your Dec 2026 CV goal.
+
+[2026-01-11 14:25] Rohan Patel:
+Easy change—chef can adjust. Logged.
+
+[2026-01-12 06:40] Rachel:
+Mobility screen: form good overall, restriction at left ankle dorsiflexion. I’ll design Programme A (hotel/light) and Programme B (gym). First update drops Tuesday.
+
+[2026-01-12 07:02] Rohan Patel:
+Sounds good.
+
+[2026-01-13 09:20] Ruby:
+CT completed—results to Dr Warren by Thu. This covers your advanced cardiac imaging baseline.
+
+[2026-01-14 18:05] Dr Warren:
+Prelim labs:
+- ApoB 118 mg/dL  target  excellent baseline. Alongside ApoB elevation, we focus on diet & exercise first. Statins deferred; recheck in April Q2 panel.
+
+[2026-01-20 07:45] Rohan Patel:
+Prefer lifestyle-first. Fully aligned.
+
+[2026-01-21 11:00] Rohan Patel:
+I see my Garmin gives a VO₂max estimate. How accurate is this compared to a lab test, and is it a metric we're actively trying to improve for my heart disease risk goal?
+
+[2026-01-21 11:15] Advik (Performance Scientist):
+The Garmin estimate is a solid trend indicator, typically within 5–7% of a lab test. For now, it’s perfect for tracking progress. And yes, improving VO₂max is a core part of your plan. Higher aerobic capacity is strongly correlated with reduced cardiovascular risk. We’ll target a 5–10% increase by your Q2 panel.
+
+[2026-01-22 18:14] Rohan Patel (from Heathrow):
+Jet-lagged, missed workout. Any 10-min hotel routine?
+
+[2026-01-22 18:18] Rachel:
+Yes: 3 rounds (20 squats, 15 push-ups, 30-sec plank). Jump-start circadian rhythm.  Minimal viable workout complete in 10 min.
+
+[2026-01-23 05:55] Carla:
+Travel diet tip: UK breakfast is sodium-heavy. Choose poached eggs + tomatoes, skip bacon. Don’t forget 2 g Omega-3 capsules/day.
+
+[2026-01-23 06:02] Rohan Patel:
+Logged. Carrying capsules.
+
+[2026-01-24 18:05] Rohan Patel:
+Is there a plan to include cognitive function testing regularly? I’m keen to track my mental sharpness along with physical health.
+
+[2026-01-24 18:15] Ruby (Concierge):
+We aim for cognitive testing every quarter, synced with full diagnostic panels. Currently using CNS Vital Signs test; results integrate into your dashboard alongside physical health metrics.
+
+[2026-01-25 22:10] Ruby:
+Reminder: hotel gym slot 06:30 Mon + Zoom form-check with Rachel. Ping if conflict.
+
+[2026-01-25 22:14] Rohan Patel:
+Meeting moved earlier—can we shift?
+
+[2026-01-25 22:17] Ruby:
+Rescheduled to 05:45. Calendar updated with Sarah.
+
+[2026-01-26 09:15] Rohan Patel:
+Now that I'm a few weeks in, I'd like to get a more formal read on my stress levels beyond just HRV. Is there a way for me to log my subjective feeling of stress or resilience?
+
+[2026-01-26 09:30] Advik (Performance Scientist):
+Excellent idea. We can add a simple 1–5 subjective resilience score to your weekly check-in. Pairing this qualitative data with your quantitative HRV gives us a much richer picture of your stress response, especially around travel. I'll have Ruby add it to your next weekly check-in.
+
+[2026-01-27 07:40] Advik:
+Good recovery—HRV 44–46 ms, sleep avg 5h50m.  Push magnesium double dose tonight, avoid hotel bar for HRV stability.
+
+[2026-01-27 08:02] Rohan Patel:
+Copy. Skipping bar 🍻😅
+
+[2026-01-28 17:00] Rohan Patel:
+Regarding the cognitive performance goal for June 2026, what's the plan for testing and tracking? I want to ensure that's not overlooked with the focus on blood markers.
+
+[2026-01-28 17:20] Dr Warren (Physician):
+Absolutely. Your baseline diagnostic suite includes a computerized cognitive assessment (CNS Vital Signs). It tests memory, reaction time, and executive function. We will re-test this quarterly alongside your main blood panels to track progress and correlate it with your lifestyle interventions, particularly sleep optimization and nutrition.
+
+[2026-01-29 13:05] Rohan Patel:
+Left ankle stiff after flight. Video drill?
+
+[2026-01-29 13:18] Rachel:
+Sending 2-min ankle floss mobility video. Before bed + pre-flight.
+
+[2026-01-29 20:45] Rohan Patel:
+Your updates often mention HRV. Can I self-rate stress in the app to complement this biometric data?
+
+[2026-01-29 20:50] Advik (Performance Scientist):
+Yes! The Elyx app will soon include subjective stress ratings as a complement to HRV. It improves our personalized recovery guidance. Looking forward to your feedback.
+
+[2026-01-30 21:50] Ruby:
+Welcome back. Suggest quick debrief Fri 31 Jan 19:00. 15-min call to recap London adherence, update plans.
+
+[2026-01-30 21:57] Rohan Patel:
+Locked.
+
+[2026-01-31 19:18] Ruby (Call Summary):
+January close-out:
+- Travel adherence 60% (4 mobility, 2 strength)
+- Weight stable 74.8 → 74.6 kg
+- No alcohol, sodium slightly high
+Next steps:
+1. Carla finalizes lipid-friendly full plan (due 3 Feb)
+2. Rachel updates Programme B with ankle mobility
+3. Apr diagnostic panel set 9 Apr (Week 14)
+
+[2026-01-31 19:22] Rohan Patel:
+Thanks team—great start to the year.
+
+[2026-01-31 20:00] Neel (Concierge Lead) – MONTH-END SUCCESS METRICS (January detailed):
+- VO₂max: Garmin baseline established at 48. We will monitor this weekly.
+- Biological Age (TruAge): Baseline sample collected. Results pending, will establish baseline for long-term tracking.
+- Blood Panel Markers: ApoB is the primary action item at 118 mg/dL. hs-CRP (inflammatory marker) is slightly elevated. Coronary Calcium Score of 0 is an excellent result.
+- Blood Pressure: Baseline physical exam recorded 128/84 mmHg. This is high-normal and will be monitored.
+- Cognitive Assessment: Cognitive Index Score recorded at 100. Baseline CNS Vital Signs test scheduled with the Q1 review will establish a benchmark for your June 2026 goal.
+- Sleep Quality: Garmin data shows an average of 5h 50m (5.8 hours) during the travel week, highlighting an area for improvement.
+- Stress Resilience: Garmin HRV average was 45 ms in January, with clear dips during travel (lowest: 36 ms). We are now adding a subjective self-assessment score to get a fuller picture.
+
+Key Wins:
+- Full diagnostic baseline successfully established.
+- Immediate adoption of nutrition and exercise plan modifications.
+
+Challenges & Focus for February:
+- Mitigating the impact of international travel on sleep and HRV remains the key challenge.
+- Focus will be on travel-specific workout adherence and sleep hygiene protocols.
+
+[2026-02-01 07:42] Ruby (Concierge):
+Good morning Rohan. Reminder: Garmin strap battery typically lasts ~10 days of travel—please swap today before NYC to ensure continuous HRV/VO₂ and sleep tracking. This helps us monitor your June 2026 cognitive and Dec 2026 CV goals.
+
+[2026-02-01 08:05] Rohan Patel (member-initiated #6):
+Thanks for the reminder. Also—wife’s cooking prawn curry tonight. Should I worry about sat-fat impact given ApoB?
+
+[2026-02-01 08:17] Carla (Nutritionist):
+Enjoy the meal 😊. Portion ~120 g prawns, coconut milk ≤¼ cup, pair it with extra steamed veg.  helps moderate lipid load while still aligned with family meals.
+
+[2026-02-01 20:10] Rohan Patel (member-initiated):
+I read that VO₂max is a strong predictor of long-term health. Are we setting a specific VO₂max goal for Q2 so I can track progress clearly?
+
+[2026-02-01 20:25] Advik (Performance Scientist):
+Yes—great callout. Based on your January trend, we’ll target +3–5% VO₂max by end of March through Zone-2 consistency and light strides. We’ll reassess in the April panel week and update the Q2 target.
+
+[2026-02-02 09:05] Rohan Patel (member-initiated):
+How are we planning to track cognitive changes monthly, not just quarterly? Would a short monthly check help?
+
+[2026-02-02 09:18] Dr Warren (Physician):
+Quarterly standardized tests remain the gold standard, but we can add a 3–5 minute monthly cognitive micro-check (reaction-time and N-back) in your app. It’s a useful early signal alongside sleep and HRV.
+
+[2026-02-02 19:12] Advik (Performance Scientist):
+January snapshot:
+- HRV baseline ↑ +4 ms (now 52 ms)
+- Avg sleep ↑ +22 min/night
+- Zone-2 cardio = 106 min/wk (goal 120)
+Overall trend = positive.  Nice progress—let’s close Zone-2 gap in Feb.
+
+[2026-02-02 19:26] Rohan Patel (member-initiated #7):
+Great bump! Any Garmin trick to make Zone-2 stick instead of drifting too high?
+
+[2026-02-02 19:34] Advik:
+Yes—set HR alert at 135 bpm: Garmin → Activity Settings → Alerts → HR → “Custom.” Keeps you inside Zone-2 window for cardiovascular efficiency goals.
+
+[2026-02-03 06:50] Rachel (PT):
+Form-check: during suitcase carry, left shoulder hikes slightly. Drop load by 5 kg, keep rib cage down.  Not serious but correcting early prevents strain.
+
+[2026-02-03 07:04] Rohan Patel:
+Understood—will adjust.
+
+[2026-02-05 10:10] Rohan Patel (member-initiated):
+Can we track blood pressure more regularly during travel weeks? I’m curious if red-eye flights nudge it up.
+
+[2026-02-05 10:22] Ruby (Concierge):
+Good idea. I’ll add a reminder to log BP 2× per travel week (hotel cuff) and we’ll trend it against flight timing and sleep.
+
+[2026-02-05 12:30] Rohan Patel (member-initiated #8):
+Need menu guidance—client dinner at Burnt Ends (smoked meats focus).
+
+[2026-02-05 12:47] Carla:
+Choose lean beef or chicken, skip sausage/brisket. Add charred cabbage side. Cap red wine at 2 glasses.  Travel dining—quality protein but minimize sat-fat.
+
+[2026-02-06 09:40] Rohan Patel (member-initiated):
+How do you combine subjective stress scoring with HRV to get my “resilience” view? Just want to understand what “good” looks like for me.
+
+[2026-02-06 09:55] Advik (Performance Scientist):
+We’ll use a 1–5 daily stress rating + HRV baseline trend + sleep quality. “Good” for you = HRV within ±5 ms of baseline and stress ≤3, with ≥6h30m sleep. Deviations trigger recovery protocols.
+
+[2026-02-06 21:15] Ruby:
+NYC trip (SQ026 Changi→JFK 12 Feb 00:40) confirmed. Aisle seat with stretch access locked. Hotel gym orientation 13 Feb 07:00 (NY time) pre-scheduled. Sarah’s calendar updated.
+
+[2026-02-06 21:21] Rohan Patel:
+Perfect.
+
+[2026-02-07 06:28] Rohan Patel (member-initiated #9):
+Had migraine aura this morning—probably from wine last night. Safe to train?
+
+[2026-02-07 06:40] Dr Warren:
+If aura resolved + no neuro symptoms, light 20-min Zone-1 is fine, plus dim-light reading for relaxation.  Monitor; report if frequency increases.
+
+[2026-02-09 08:35] Rohan Patel (member-initiated):
+Is there any monthly mini-cog exercise I can do on flights? Something quick to keep me sharp and consistent with the cognitive goal.
+
+[2026-02-09 08:48] Ruby (Concierge):
+Yes—adding a 3-min reaction-time tap test + 2-min memory sequence in your app. I’ll set it to nudge on outbound flight days.
+
+[2026-02-21 09:14] Carla:
+Post-travel kitchen reset: Omega-3 caps with breakfast, add 30 g walnuts at lunch salad. Aim = push EPA/DHA ratio ahead of April labs.
+
+[2026-02-21 09:26] Rohan Patel:
+Chef’s briefed—he’ll include walnuts.
+
+[2026-02-21 20:40] Rohan Patel (member-initiated):
+Quick one: for hs-CRP, how fast can nutrition changes reflect in lab values? Wondering if my Feb changes will show by early April.
+
+[2026-02-21 20:55] Carla (Nutritionist):
+You can see reductions within 4–8 weeks with consistency (fiber, Omega-3s, reduced alcohol, better sleep). Your timing for the April panel is well-aligned.
+
+[2026-02-22 08:05] Rachel (PT):
+TRAVEL RECOVERY BLOCK (Sunday):
+1. 10-min lower body foam roll
+2. 20-min Zone-1 walk (HR  Supports HRV rebound.
+
+[2026-02-22 10:46] Rohan Patel:
+Block completed 👍
+
+[2026-02-23 09:25] Rohan Patel (member-initiated):
+Where should my VO₂max ideally be by end of year to support reduced CV risk? Just want a benchmark.
+
+[2026-02-23 09:42] Advik (Performance Scientist):
+With your age/sex and baseline, a +8–12% improvement by December is realistic, driven by sustained Zone-2 and progressive intervals in H2. We’ll translate that into Garmin points once April confirms the baseline.
+
+[2026-02-23 19:02] Ruby (Concierge):
+Weekly Check-In (NYC recovery):
+- Exercise adherence 46%
+- Avg sleep 6h01m
+- Current weight 74.9 kg
+Blockers for this week?
+
+[2026-02-23 19:09] Rohan Patel:
+Kids’ concert Thu night—less gym time Wed/Thu.
+
+[2026-02-23 19:12] Rachel (PT):
+I’ll adapt Wednesday to mobility-only (~12 min). Keeps streak alive while honoring schedule.
+
+[2026-02-26 06:50] Rachel (PT):
+Bi-weekly Exercise Update – Programme B v2.1
+- Swap cable pull-throughs → hip thrusts (home bench)
+- Add skipping-rope finisher 3×45 sec (conditioning work)
+ Response to NYC feedback, respects 5 h/wk target.
+
+[2026-02-26 07:01] Rohan Patel:
+Excited to try jump rope—let’s test coordination 😅
+
+[2026-02-26 18:40] Rohan Patel (member-initiated):
+Can we add a quick weekly blood pressure capture reminder on Sundays? I’d like a non-travel baseline too.
+
+[2026-02-26 18:55] Ruby (Concierge):
+Done—Sunday morning reminder set. We’ll chart travel vs non-travel weeks and review trends in your month-end summary.
+
+[2026-02-27 12:40] Rohan Patel (member-initiated #14):
+Garmin VO₂max jump 48 → 50. Real progress or noise?
+
+[2026-02-27 12:54] Advik:
+Real. Two valid tests, comparable conditions. +2 VO₂max ≈ 4% aerobic improvement.  Tied directly to consistent Zone-2 in Jan.
+
+[2026-02-28 09:05] Rohan Patel (member-initiated):
+Do we have a target HRV range you’d like me to stay within during travel weeks? Helpful for me to know when to downshift.
+
+[2026-02-28 09:18] Advik (Performance Scientist):
+Aim to keep HRV within ~10% of your monthly baseline. If it drops below that (or sleep  No urgent health issues flagged.
+
+[2026-02-28 18:15] Neel (Concierge Lead) – MONTH-END SUCCESS METRICS (Detailed):
+- VO₂max: Garmin VO₂max recorded at 50. We will monitor this weekly.
+- Biological Age (TruAge): Baseline sample collected. Results pending, will establish baseline for long-term tracking.
+- Blood Panel Markers: ApoB level improved to 113 mg/dL. hs-CRP (inflammatory marker) remains slightly elevated. Coronary Calcium Score of 0 is an excellent result.
+- Blood Pressure: Average monthly reading recorded at 129/85 mmHg. This is high-normal and will be monitored.
+- Cognitive Assessment: Cognitive Index Score recorded at 99. Baseline CNS Vital Signs test scheduled with the Q1 review will establish a benchmark for your June 2026 goal.
+- Sleep Quality: Garmin data shows an average of 6.2 hours, reflecting an improvement compared to January.
+- Stress Resilience: Garmin HRV average was 52 ms in February, showing recovery from the lower January readings. We are now adding a subjective self-assessment score to get a fuller picture.
+
+[2026-02-28 18:07] Rohan Patel:
+Looks solid—thanks team. Onward to March.
+
+[2026-03-01 07:35] Ruby (Concierge):
+Happy Sunday, Rohan! Quick recap of this week’s calendar:
+-  Mon 07:00 Trainerize strength session
+-  Wed 19:30 Zone-2 run with Advik’s live HR monitor
+-  Fri 12:00 15-min sync call (me) to lock Seoul travel logistics 24-28 Mar
+
+[2026-03-01 07:58] Rohan (member-initiated #15):
+Trying to push long run to Tue morning instead—kids swim meet Monday.
+
+[2026-03-01 08:04] Ruby:
+Rescheduled. Calendar updated.
+
+[2026-03-01 18:20] Rohan (member-initiated):
+Two quick ones:
+1) Can we add a weekly cognitive micro-check (reaction-time) on Sunday evenings?
+2) What VO₂max range would you consider “excellent” for my age if I stay consistent through Q2?
+
+[2026-03-01 18:40] Advik (Performance Scientist):
+1) Yes—adding a 3-min reaction-time tap test to Sundays 20:00.
+2) For your age/sex, reaching mid-50s would be excellent. We’ll aim for +5–8% this half-year via Zone-2 adherence + strides after April.
+
+[2026-03-02 06:42] Advik (Performance Scientist):
+Sunday sleep 7 h 02 m 👏; HRV this morning 54 ms (baseline 52). Keep caffeine ≤1 cup pre-noon and we’ll ride the wave.
+
+[2026-03-03 09:25] Rohan (member-initiated):
+Is there a way to tag meetings with “high cognitive demand” so we can see if sleep or HRV predicts performance dips?
+
+[2026-03-03 09:36] Ruby (Concierge):
+Great idea. I’ll add a Calendar tag “High Focus” and sync those events to your dashboard. We’ll annotate outcomes (self-rated focus 1–5) to correlate with sleep, HRV, and glucose.
+
+[2026-03-03 20:10] Rohan (member-initiated #16):
+Garmin reported “acute load low.” Should I add sprints?
+
+[2026-03-03 20:22] Advik:
+Not yet. Let load build steadily: +10% each week. We’ll add strides in April once Zone-2 is consistent 150 min/week for 2 straight weeks.
+
+[2026-03-04 09:10] Rohan (member-initiated):
+What is a good travel-week HRV threshold for me to switch to mobility-only? Last week’s dip confused me a bit.
+
+[2026-03-04 09:22] Advik (Performance Scientist):
+Use your monthly baseline as reference. If HRV drops >10% below baseline or sleep <6 h, switch to Zone-1 + mobility for 24–48 h, then reassess.
+
+[2026-03-04 18:30] Carla (Nutritionist):
+Chef sent me photos—great job swapping white rice → quinoa. Next tweak: add 5 g psyllium husk to breakfast smoothie for LDL reduction. Any GI issues, ping me.
+
+[2026-03-04 18:42] Rohan:
+Will test tomorrow.
+
+[2026-03-05 07:25] Rachel (PT):
+Ankle dorsiflexion re-test: +5 °. Nice! I’ll progress goblet squat to front-rack kettlebell next cycle.
+
+[2026-03-06 08:15] Rohan (member-initiated):
+Can we add a Sunday AM home blood pressure reading as a non-travel baseline? I’ll use my cuff.
+
+[2026-03-06 08:26] Ruby (Concierge):
+Added a 08:00 BP reminder on Sundays. We’ll separate travel vs home weeks in your trend chart for April’s review.
+
+[2026-03-06 21:55] Rohan (member-initiated #17):
+Late client dinner tomorrow. Can we flip Saturday’s workout to Sunday?
+
+[2026-03-06 22:01] Rachel:
+Done. Sunday 08:00 slot in Trainerize. Saturday marked optional mobility only.
+
+[2026-03-08 09:40] Ruby – WEEKLY CHECK-IN:
+-  Exercise adherence 71% (↑ vs last week)
+-  Sleep avg 6 h 38 m
+-  No blockers logged—anything on your mind?
+
+[2026-03-08 09:46] Rohan:
+All good. Psyllium fine, just extra water needed.
+
+[2026-03-08 20:10] Rohan (member-initiated):
+Saw a paper on hs-CRP and cognition. If my hs-CRP trends down by April/July, might that correlate with better cognitive scores?
+
+[2026-03-08 20:26] Dr Warren (Physician):
+Lower systemic inflammation is associated with better cognitive health over time. While individual correlations vary, reducing hs-CRP via sleep, diet, and exercise supports your cognitive goals—your quarterly CNS tests will let us quantify trends.
+
+[2026-03-09 20:12] Dr Warren (Physician):
+Noted fibre addition. 👍  Small evidence shows 8 weeks can drop ApoB 5-7%. We’ll quantify at Apr 9 panel.
+
+[2026-03-10 06:55] Rohan (member-initiated #18):
+Minor sore throat. Safe to train?
+
+[2026-03-10 07:06] Dr Warren:
+If temp <37.8 °C and symptoms above the neck only, light Zone-1 okay. No heavy lifting until 24 h symptom-free.
+
+[2026-03-11 10:05] Rohan (member-initiated):
+Should I take a small vinegar shot before higher-carb travel meals to blunt glucose spikes, or wait for the April OGTT?
+
+[2026-03-11 10:18] Carla (Nutritionist):
+Vinegar pre-meal can reduce post-prandial glucose—safe to use now during travel dinners. Keep portion ~1 tbsp in water; continue logging CGM notes when available.
+
+[2026-03-11 19:18] Neel (Concierge Lead):
+Draft Q1 review deck in Drive (folder “Q1-Rohan”). Have a skim; we present 14 Apr.
+
+[2026-03-11 19:25] Rohan:
+Scanning tonight.
+
+[2026-03-12 07:02] Rachel – BI-WEEKLY EXERCISE UPDATE – PROGRAMME C v1.0
+Changes driven by video feedback & new mobility scores:
+1. Front-rack kettlebell squat 3×8
+2. Single-leg RDL 3×10/side
+3. Half-kneel landmine press 3×8/side
+4. Core: dead-bug pallof hold 3×30 s
+Hotel-band variant auto-loads when “Travel” tag is on.
+
+[2026-03-12 07:15] Rohan:
+Looks solid.
+
+[2026-03-13 08:30] Rohan (member-initiated):
+I’ve got three “High Focus” meetings next week. Any sleep tweaks the night before to boost cognitive performance?
+
+[2026-03-13 08:42] Advik (Performance Scientist):
+Night-before protocol: caffeine cut-off 6–8h pre-bed, 3 g glycine + warm shower 30 min pre-sleep, target 7 h in bed, and 10 min morning daylight. I’ll add a prompt to your calendar.
+
+[2026-03-13 22:43] Rohan (member-initiated #19):
+Friday drinks—had 2 IPAs 😬. Damage?
+
+[2026-03-13 22:50] Carla:
+Within agreed 2-drink cap. Hydrate 500 ml water + 300 mg magnesium; extra 1 g Omega-3 at breakfast. No biggie.
+
+[2026-03-14 08:10] Advik:
+HRV dip to 45 ms after beers; expected. Keep today low-intensity mobility only.
+
+[2026-03-15 10:20] Ruby:
+Seoul trip flights confirmed: SQ600 Mon 24 Mar 23:55 out, return Sat 28 Mar 14:05. Hotel gym pics in thread—dumbbells to 22 kg, Concept-2 rower.
+
+[2026-03-15 10:25] Rohan:
+Great, thanks.
+
+[2026-03-16 06:48] Rohan (member-initiated #20):
+Any stretch to fix tight upper back after yesterday’s landmine press?
+
+[2026-03-16 06:54] Rachel:
+Thoracic extension on foam-roller 2×60 s + thread-the-needle 2×10/side. Video in app.
+
+[2026-03-17 08:20] Rohan (member-initiated):
+For BP tracking: should I do two back-to-back measurements and average, or one is fine?
+
+[2026-03-17 08:32] Dr Warren (Physician):
+Take two readings 1–2 minutes apart; record the average. Sit quietly for 5 minutes before measuring; avoid caffeine 30 minutes prior.
+
+[2026-03-17 18:05] Carla:
+Chef asked if edamame spaghetti is okay as pasta substitute one night/week—high protein, low GI. Approved?
+
+[2026-03-17 18:12] Rohan:
+Yes, sounds interesting.
+
+[2026-03-18 07:30] Advik:
+Zone-2 streak 5/7 days last week—brilliant. That’s first time hitting 150 min clk. Let’s repeat this week; we’ll consider strides block post-Seoul.
+
+[2026-03-19 14:20] Rohan (member-initiated):
+Can we add a weekly “resilience snapshot” combining HRV baseline +/- %, sleep duration, and my stress score? Would help me make decisions on workouts.
+
+[2026-03-19 14:34] Ruby (Concierge):
+Done. I’ll post a Friday snapshot summarizing HRV vs baseline, sleep average, and your subjective stress. It will include a green/amber/red training cue.
+
+[2026-03-19 21:40] Dr Warren:
+FYI—April panel requisition sent to Parkway. Same tests + add insulin & OGTT to gauge fasting glucose drift. Fasting after 22:00 Apr 08 night.
+
+[2026-03-19 21:46] Rohan:
+Noted.
+
+[2026-03-20 23:10] Rohan (member-initiated #21):
+Forgot evening Zone-2; late conference call. Make it up tomorrow AM?
+
+[2026-03-20 23:18] Advik:
+Yes. 40-min at 130-135 bpm before breakfast; still keeps weekly load target.
+
+[2026-03-21 09:55] Ruby – WEEKLY CHECK-IN:
+-  Exercise adherence 83%
+-  Zone-2 total 162 min
+-  Sleep avg 6 h 44 m
+Upcoming: Seoul travel – any equipment needs?
+
+[2026-03-21 10:03] Rohan:
+Bring mini-bands only.
+
+[2026-03-22 07:15] Rachel:
+Travel pack checklist: mini-bands, magnesium, melatonin, skipping rope. Programme C “hotel” version queued for Monday.
+
+[2026-03-22 07:27] Rohan:
+Packed ✅
+
+[2026-03-23 21:05] Rohan (member-initiated):
+Cognitive micro-check on flights felt good last week. Can we add one the day after red-eye flights to see recovery?
+
+[2026-03-23 21:18] Ruby (Concierge):
+Yes—adding a 3-min reaction-time prompt on the morning after red-eyes. We’ll chart against sleep duration/HRV.
+
+[2026-03-24 07:18] Rohan (from Incheon) (member-initiated #22):
+Hotel gym open 06:00 only; my first meeting 07:00. Alternatives?
+
+[2026-03-24 07:25] Rachel:
+We’ll do room circuit:
+-  Split squat 3×12/leg (back foot on chair)
+-  Push-up 3×12
+-  Band row 3×15
+-  Jump rope 3×45 s
+Takes 20 min—slot 05:40.
+
+[2026-03-25 09:20] Rohan (member-initiated):
+If my HRV is below threshold but I feel mentally sharp, do I still downshift training?
+
+[2026-03-25 09:34] Advik (Performance Scientist):
+Downshift for 24 h if HRV is below your -10% threshold or sleep <6 h—regardless of “feels okay.” We’ll avoid accumulating fatigue that hits both cardio and cognition later.
+
+[2026-03-25 20:11] Carla:
+K-BBQ dinner expected tonight? Stick to lean cuts (chadolbagi) + lettuce wraps; limit rice cakes. Take 600 mg NAC before bed to blunt oxidative stress from grill smoke.
+
+[2026-03-25 20:20] Rohan:
+Copy.
+
+[2026-03-26 06:33] Advik:
+Travel recovery: HRV 43 ms, strain high. Swap tonight’s workout → 15-min breath + mobility. Data flag set.
+
+[2026-03-26 06:39] Rohan:
+Understood.
+
+[2026-03-27 08:55] Rohan (member-initiated):
+BP this week seems a touch higher post-flight. Will you include BP in March summary?
+
+[2026-03-27 09:10] Ruby (Concierge):
+Yes—adding a BP trend section (travel vs home) to your month-end summary starting this month.
+
+[2026-03-27 22:55] Ruby:
+Flight SQ607 returns tomorrow 14:05. I moved Sunday long run to Monday to allow full recovery.
+
+[2026-03-27 23:01] Rohan:
+Good call.
+
+[2026-03-28 18:40] Neel – MID-TRAVEL STATUS NOTE (internal copy to you + Rohan):
+Seoul adherence 50% so far (2 of 4 workouts). Acceptable under travel rule. No alcohol, sodium slightly elevated. Flagged to Carla to adjust Monday.
+
+[2026-03-29 09:18] Rohan (member-initiated #23):
+Left ankle stiff after hotel stairs—repeat floss drill?
+
+[2026-03-29 09:23] Rachel:
+Yes, floss drill + calf stretch 2×60 s. Add ice 10 min if soreness persists.
+
+[2026-03-30 07:08] Rachel – BI-WEEKLY EXERCISE UPDATE – PROGRAMME C v1.1
+Minor tweaks pre-Q1 review:
+-  Add tempo (3-1-X) to front-squat for time-under-tension
+-  Switch landmine press back to DB bench during travel weeks
+-  New finisher: 2 × 500 m row @ <2:10 split
+
+[2026-03-30 07:20] Rohan:
+Row finisher sounds brutal—but okay.
+
+[2026-03-31 09:40] Rohan (member-initiated):
+For April’s panel, will we track cognitive scores alongside ApoB/OGTT in the same summary? Helps me see whole-picture progress.
+
+[2026-03-31 09:55] Neel (Concierge Lead):
+Yes—April results deck will show a unified dashboard: lipids/glucose, sleep/HRV, VO₂max, cognitive (CNS), and BP trends. You’ll get highlights plus access to detailed graphs.
+
+[2026-03-31 19:05] Ruby – MONTH-END SUMMARY (voice note transcribed):
+March KPI highlights:
+1. Zone-2: 150 min goal met 3/4 weeks 🌟
+2. Sleep: 6 h 43 m avg (+5 min vs Feb)
+3. HRV baseline 53 ms (+1 ms) despite travel
+4. Weight 74.4 kg (-0.5 kg)
+5. Psyllium + ω-3 protocol adhered 95% (chef logs)
+Friction: Seoul scheduling squeeze → missed 2 sessions. Plan: integrate 05:30 micro-workouts on travel days.
+Next milestones: Apr 9 full-panel; Apr 14 Q1 review. Anything to add?
+
+[2026-03-31 19:20] Neel – MONTH-END SUCCESS METRICS (March Detailed):
+- VO₂max: Garmin VO₂max recorded at 50. We will monitor this weekly.
+- Biological Age (TruAge): Baseline sample collected. Results pending, will establish baseline for long-term tracking.
+- Blood Panel Markers: ApoB level improved further to 108 mg/dL. hs-CRP (inflammatory marker) remains slightly elevated. Coronary Calcium Score of 0 is an excellent result.
+- Blood Pressure: Average monthly reading recorded at 126/82 mmHg. This is high-normal and will be monitored.
+- Cognitive Assessment: Cognitive Index Score recorded at 101. Baseline CNS Vital Signs test scheduled with the Q1 review will establish a benchmark for your June 2026 goal.
+- Sleep Quality: Garmin data shows an average of 6.7 hours, reflecting continued improvement in sleep duration.
+- Stress Resilience: Garmin HRV average was 53 ms in March, maintaining steady gains compared to February. We are now adding a subjective self-assessment score to get a fuller picture.
+
+[2026-03-31 19:11] Rohan:
+All good—looking forward to seeing lab numbers. Great month, team.
+
+[2026-04-01 07:30] Ruby (Concierge):
+Weekly overview:
+-   Thu 04 Apr – 07:00 Trainerize strength
+-   Sat 06 Apr – 60-min Zone-2 run (target 135 bpm)
+-   Tue 09 Apr – FULL DIAGNOSTIC PANEL 07:15 @ Gleneagles (fast from 22:00 08 Apr)
+
+[2026-04-01 07:49] Rohan (member-initiated #24):
+Is black coffee allowed during the fast?
+
+[2026-04-01 07:51] Ruby:
+Plain water only, sorry—caffeine alters glucose and cortisol.
+
+[2026-04-01 18:20] Rohan (member-initiated):
+For tomorrow’s strength, if HRV is slightly below baseline but sleep was 7 h, should I keep intensity or scale?
+
+[2026-04-01 18:34] Advik (Performance Scientist):
+If HRV is within ~5% of baseline and sleep ≥6h45m, proceed as planned; if >10% below baseline or sleep 100 then
+   e. Internal: coach hours last quarter 18 h; projected keep <22 h Q2
+Action‐item deck shared. Next review 14 July.
+
+[2026-04-14 18:04] Rohan:
+Clear plan—let’s execute.
+
+Week 16 (15 – 21 Apr) (Jakarta business trip)
+[2026-04-15 08:20] Ruby:
+Flight GA 835 Fri 18 Apr 17:50 SIN→CGK return Tue 23 Apr. Hotel gym limited; Rachel preparing band-only plan.
+
+[2026-04-15 08:37] Rohan:
+Confirmed.
+
+[2026-04-15 19:10] Rohan (member-initiated):
+For the next month-end, can we include a “resilience snapshot” rollup (HRV vs baseline, sleep avg, subjective stress, and color-coded training cue)?
+
+[2026-04-15 19:22] Ruby (Concierge):
+Absolutely—adding it to your April summary. We’ll standardize it for every month going forward.
+
+[2026-04-16 06:12] Advik:
+First post-meal 10-min walk HRV experiment: HRV next-morning 56 ms (+2). Keep logging; we’ll see pattern.
+
+[2026-04-16 06:25] Rohan (member-initiated #28):
+Client dinner tonight at Nama Sushi; white rice unavoidable. Okay?
+
+[2026-04-16 06:40] Carla:
+Fine—portion fist-size, pair with sashimi, miso soup. Take 2 tbsp vinegar in water before meal; blunts glucose spike ~20%.
+
+[2026-04-17 09:30] Rohan (member-initiated):
+What’s the minimum effective dose for VO₂ maintenance during heavy travel weeks?
+
+[2026-04-17 09:42] Advik (Performance Scientist):
+Two 20–25 min Zone-2 sessions or three 12–15 min micro-sessions keep capacity from sliding much. Your band-flow + brisk walk combo works well here.
+
+[2026-04-17 21:30] Rachel:
+Travel BAND-FLOW circuit in Trainerize: 25-min full-body; test tomorrow 07:00 Jakarta time.
+
+[2026-04-17 21:40] Rohan:
+All set.
+
+[2026-04-18 12:15] Rohan (member-initiated #29):
+Jakarta hotel breakfast high-GI pastries only. Alternatives?
+
+[2026-04-18 12:22] Carla:
+Room-service: order 2 eggs any style + avocado side, skip pastry. Add fruit later if needed.
+
+[2026-04-19 05:58] Advik:
+Overnight HRV 42 ms—travel stress. Reduce strides today; light mobility only.
+
+[2026-04-19 06:09] Rohan:
+Understood.
+
+[2026-04-20 08:10] Rohan (member-initiated):
+Let’s add a BP reading day after red-eyes for a few trips to see if there’s a consistent bump.
+
+[2026-04-20 08:22] Ruby (Concierge):
+Done—tagged “Post-Red-Eye BP” in your reminders. We’ll chart those separately.
+
+[2026-04-20 22:10] Ruby:
+Reminder: Jakarta time-zone +1 h; I’ve shifted all workout alerts accordingly.
+
+[2026-04-21 09:55] Neel (internal + Rohan):
+Mid-trip checkpoint: workout adherence 1/2 so far; aim for tonight’s band-flow to hit 50% rule. Support needed?
+
+[2026-04-21 10:01] Rohan:
+Got it—will knock it out before dinner.
+
+[2026-04-22 18:05] Ruby:
+Welcome back! Recovery protocol: 20-min sauna tonight, magnesium 400 mg, lights out 22:30.
+
+[2026-04-22 18:12] Rohan:
+Sauna booked.
+
+[2026-04-23 07:35] Rachel – BI-WEEKLY EXERCISE UPDATE – PROGRAMME D v1.1
+-   Added single-leg hop drill (ankle plyo) once/week
+-   Reduced front-squat load 5 kg first week post-travel
+-   Row finisher stays
+
+[2026-04-23 07:48] Rohan:
+Ankle hop—hope it survives 😄
+
+[2026-04-23 20:40] Rohan (member-initiated):
+If I hit 170 min Zone-2 this month, do we expect any VO₂ bump visible on Garmin by May, or is that too soon?
+
+[2026-04-23 20:52] Advik (Performance Scientist):
+It’s enough volume to see a small uptick, especially with strides added. We’ll confirm via 2–3 comparable-condition Garmin tests in early May.
+
+[2026-04-24 20:44] Rohan (member-initiated #30):
+Sleep stuck at 5 h 45 m since Jakarta. Tips?
+
+[2026-04-24 20:56] Advik:
+Blue-light blockers after 20:30, 3 mg glycine + warm shower 30 min pre-bed. I’ll monitor.
+
+[2026-04-25 10:22] Carla:
+Chef asked about resistant-starch: we’ll prep cooled jasmine rice salad twice/week, add apple-cider vinegar dressing. That covers glucose protocol.
+
+[2026-04-26 08:18] Dr Warren:
+Ordered Freestyle Libre CGM 14-day trial (starts 3 May). Will give objective glucose curves; decide on berberine after.
+
+[2026-04-26 08:32] Rohan:
+Perfect. Excited for data.
+
+[2026-04-28 06:50] Ruby – WEEKLY CHECK-IN:
+-   Zone-2 140 min (travel week)
+-   Strength sessions 3/5
+-   Sleep avg 5 h 58 m (↓) – rebuilding
+Any friction to flag?
+
+[2026-04-28 06:57] Rohan:
+Jet-lag still biting; will try glycine tonight.
+
+[2026-04-29 09:15] Rohan (member-initiated):
+For May, can we add a monthly “cognitive + resilience” mini-report that rolls up CNS, reaction-time, HRV baseline, sleep avg, and my stress scores?
+
+[2026-04-29 09:28] Neel (Concierge Lead):
+Yes—adding a combined page in your May summary. We’ll compare against April’s panel and Q1 baseline.
+
+[2026-04-29 19:30] Neel – MONTH-END EXECUTIVE SUMMARY (text + deck link):
+1. Biomarkers (9 Apr panel vs Jan)
+   -   LDL-C 118 → 137 baseline (-13.9%)
+   -   ApoB 102 → 118 baseline (-13.6%)
+   -   hs-CRP 1.2 → 2.1 baseline (-43%)
+   -   OGTT 2-hr 124 mg/dL (new; borderline)
+2. Behavioural metrics
+   -   Post-dinner walk: compliance 83% since 14 Apr
+   -   Travel workouts: 2/4 (meets 50% rule)
+3. Next-month focus
+   -   CGM data collection 3-17 May
+   -   Sleep extension ≥6 h 30 m average
+   -   Maintain ApoB decline trajectory
+Detailed graphs & staff-hour ledger (Q1: 19 h physician, 21 h coach/PT) in Drive.
+
+[2026-04-29 19:36] Rohan:
+Appreciate the transparency. May goals acknowledged.
+
+[2026-04-30 07:05] Rachel:
+May Day public-holiday workout posted: 5-km family fun-run suggestion; tag a photo if the kids join!
+
+[2026-04-30 07:09] Rohan:
+Love it—will rope them in. Happy long weekend team.
+
+[2026-04-30 19:10] Neel – MONTH-END SUCCESS METRICS (April Detailed):
+- VO₂max: Garmin VO₂max recorded at 51. We will monitor this weekly.
+- Biological Age (TruAge): Baseline sample collected. Results pending, will establish baseline for long-term tracking.
+- Blood Panel Markers: ApoB level improved further to 102 mg/dL. hs-CRP (inflammatory marker) remains slightly elevated. Coronary Calcium Score of 0 is an excellent result.
+- Blood Pressure: Average monthly reading recorded at 127/84 mmHg. This is high-normal and will be monitored.
+- Cognitive Assessment: Cognitive Index Score recorded at 100. Baseline CNS Vital Signs test scheduled with the Q1 review will establish a benchmark for your June 2026 goal.
+- Sleep Quality: Garmin data shows an average of 6.3 hours, a small dip compared to March but still above January baseline.
+- Stress Resilience: Garmin HRV average was 53 ms in April, consistent with March values. We are now adding a subjective self-assessment score to get a fuller picture.
+
+[2026-05-01 07:12] Rohan (sends photo):
+Family fun-run complete—kids sprinted the last 200 m 😂
+
+[2026-05-01 07:18] Rachel (PT):
+Love the pic! Counts as today’s Zone-2. Log 3 km @ easy pace.
+
+[2026-05-01 19:20] Rohan (member-initiated):
+For VO₂max, should I do one standardized outdoor route weekly to keep the readings comparable?
+
+[2026-05-01 19:34] Advik (Performance Scientist):
+Yes—great idea. Use the same flat route, similar time of day, and similar temperature if possible. I’ll tag a “VO₂ check” workout template for consistency.
+
+[2026-05-02 09:25] Rohan (member-initiated):
+As CGM starts, do you want me to flag “High Focus” meetings to correlate with glucose and sleep?
+
+[2026-05-02 09:38] Ruby (Concierge):
+Please do. I’ll sync your calendar tags and annotate your dashboard so we can review cognitive performance context with glucose and sleep.
+
+[2026-05-02 19:40] Ruby (Concierge):
+CGM courier arrives tomorrow 09:00; nurse will insert sensor on left tricep and walk you through Libre app. No shower for 2 h after insertion.
+
+[2026-05-03 09:52] Nurse (from Elyx partner clinic):
+Sensor in & app paired. Code word “Mango” if anything feels off.
+
+[2026-05-03 10:05] Rohan:
+Painless. Seeing first readings already.
+
+[2026-05-03 17:30] Rohan (member-initiated):
+If pre-meal vinegar and a 10-min walk help glucose after sushi, would the same protocol help after pasta or pastries?
+
+[2026-05-03 17:44] Carla (Nutritionist):
+Yes—vinegar and post-meal walking blunt spikes across most high-GI carb meals. Keep logging events in CGM so we can quantify impact per food type.
+
+[2026-05-03 21:10] Rohan (member-initiated #31):
+Post-dinner glucose hit 158 mg/dL after sushi. Normal?
+
+[2026-05-03 21:22] Carla (Nutritionist):
+Sushi rice spikes fast. Try: 1 tbsp vinegar water 5 min pre-meal, sashimi ratio 2:1 vs rice, and 10-min walk right after. Expect 140 only 4%. Excellent. No berberine needed.
+
+[2026-05-21 18:15] Rohan:
+Great outcome.
+
+[2026-05-22 09:20] Advik:
+Red-eye return tonight. Start pre-sleep routine 18:00 UK time, melatonin in-flight, caffeine stop 10:00. HRV likely drops—log baseline Monday.
+
+[2026-05-22 09:28] Rohan:
+On it.
+
+[2026-05-23 08:25] Rohan (member-initiated):
+Can we add a morning-after red-eye “reaction-time micro-check” to see how cognition rebounds with sleep?
+
+[2026-05-23 08:36] Ruby (Concierge):
+Added. You’ll get a 3-min tap test at 09:00 the morning after red-eyes, plus a reminder to log subjective focus (1–5).
+
+[2026-05-23 19:45] Rachel – BI-WEEKLY EXERCISE UPDATE – PROGRAMME E v1.0
+Post-travel deload week:
+1. Dumbbell snatch stays; load −10%
+2. Add Copenhagen plank 2×30 s/side (hip adductors)
+3. Zone-2 target 140 min while recovering
+
+[2026-05-23 19:58] Rohan:
+Copenhagen plank—tough but needed.
+
+[2026-05-24 08:12] Ruby (Concierge):
+Jet-lag recovery day schedule sent—10-min morning light, 90-min nap cap, lights-out 22:00.
+
+[2026-05-24 08:16] Rohan:
+Following it.
+
+[2026-05-24 20:40] Rohan (member-initiated):
+BP seemed higher after this red-eye. Can we track a “post-red-eye BP” tag for a few trips?
+
+[2026-05-24 20:52] Ruby (Concierge):
+Done—added a reminder and tag. We’ll separate home, travel, and post-red-eye readings in your trend.
+
+[2026-05-25 09:30] Rohan (member-initiated):
+Any specific VO₂ maintenance protocol for conference-heavy days? Short options help me stay compliant.
+
+[2026-05-25 09:44] Advik (Performance Scientist):
+Two options:
+- 12–15 min brisk incline walk (Zone-2) morning and evening (micro-splits), or
+- One 20-min steady Zone-2 between sessions.
+Both preserve aerobic base during dense days.
+
+[2026-05-25 20:32] Rohan (member-initiated #35):
+Still waking 04:30 wide-awake. Adjust melatonin dose?
+
+[2026-05-25 20:40] Advik:
+Skip melatonin tonight; add 3 g glycine + warm bath 30 min pre-bed. Should shift rhythm.
+
+[2026-05-26 07:05] Ruby – WEEKLY CHECK-IN
+-  Travel workout adherence 50% (meets rule)
+-  CGM export received
+-  Sleep avg past 7 d 5 h 59 m → rebuild
+Blockers?
+
+[2026-05-26 07:11] Rohan:
+None—need sleep back on track.
+
+Week 22 (27 – 31 May)
+[2026-05-27 06:48] Carla:
+CGM analysis deck (graphs + meal annotations) in Drive. Key trigger foods: croissant, mango smoothie, lager. We’ll craft swaps June.
+
+[2026-05-27 07:00] Rohan:
+Scanning tonight.
+
+[2026-05-27 12:35] Rohan (member-initiated):
+Do we want a monthly “cognitive + resilience” rollup for May that includes reaction-time, HRV baseline, sleep avg, and my stress scores?
+
+[2026-05-27 12:48] Neel (Concierge Lead):
+Yes—adding that as a dedicated page this month and going forward. We’ll benchmark against Q1 baselines.
+
+[2026-05-28 19:22] Neel (Concierge Lead):
+Mid-quarter pulse: doc hours 6.2 h, coach/PT 7.8 h so far. Well within targets. Any service gaps you see?
+
+[2026-05-28 19:29] Rohan:
+All smooth—app notifications perfect.
+
+[2026-05-29 08:35] Dr Warren:
+Scheduled mini-finger-prick test 12 Jun (fasting glucose & lipids) to confirm CGM findings. Takes 5 min at office.
+
+[2026-05-29 08:41] Rohan:
+Book it.
+
+[2026-05-30 06:55] Rachel:
+Saturday outdoor session idea: 5-km tempo (pace 5:30 min/km), finish with 3 × 30-sec hill sprints. Thumbs-up if good.
+
+[2026-05-30 07:02] Rohan:
+👍 Will run MacRitchie trail 07:30.
+
+[2026-05-31 17:05] Rohan (member-initiated):
+Can we highlight in the month-end whether CGM spikes aligned with poor sleep or high-stress days?
+
+[2026-05-31 17:18] Ruby (Concierge):
+Yes—May summary will include CGM overlays with sleep duration and your stress scores, with a callout on aligned spikes.
+
+[2026-05-31 18:00] Neel – MONTH-END EXECUTIVE SUMMARY (text + link):
+1. Metabolic Metrics
+  -  Mean CGM glucose 101 mg/dL; GMI 5.4%
+  -  LDL/ApoB retest slated Jul panel
+2. Performance Metrics
+  -  HRV baseline 55 ms (post-travel back to norm)
+  -  VO₂max 50 (unchanged)
+3. Behavioural
+  -  Zone-2 145 min avg/week
+  -  Sleep 6 h 08 m avg (needs +22 m)
+4. Next-month priorities
+  a. Sleep extension protocol v2 (Advik)
+  b. Finger-prick mini-panel 12 Jun
+  c. Exercise Program E progression (plyo focus)
+Staff ledger attached; shout for drill-down.
+
+[2026-05-31 18:12] Neel – MONTH-END SUCCESS METRICS (May Detailed):
+- VO₂max: Garmin VO₂max recorded at 50. We will monitor this weekly.
+- Biological Age (TruAge): Baseline sample collected. Results pending, will establish baseline for long-term tracking.
+- Blood Panel Markers: ApoB level continued improving to 101.5 mg/dL. hs-CRP (inflammatory marker) remains slightly elevated. Coronary Calcium Score of 0 is an excellent result.
+- Blood Pressure: Average monthly reading recorded at 128/85 mmHg. This is high-normal and will be monitored.
+- Cognitive Assessment: Cognitive Index Score recorded at 99. Baseline CNS Vital Signs test scheduled with the Q1 review will establish a benchmark for your June 2026 goal.
+- Sleep Quality: Garmin data shows an average of 6.1 hours, a slight dip compared to April.
+- Stress Resilience: Garmin HRV average was 55 ms in May, showing further improvement in overall stress resilience. We are now adding a subjective self-assessment score to get a fuller picture.
+
+[2026-05-31 18:07] Rohan:
+Great summary—thank you all. June here we come!
+
+[2026-06-01 07:10] Advik (Performance Scientist):
+Sleep-extension protocol v2 live today:
+1. Evening phone auto-dim 20:15
+2. 3 g glycine + 300 mg magnesium 30 min pre-bed
+3. In-bed target 22:15 → lights-out 22:30
+We’ll aim for 6 h 45 m average by month-end.
+
+[2026-06-01 07:18] Rohan (member-initiated #36):
+Copy. Any issue if I still read Kindle in bed?
+
+[2026-06-01 07:25] Advik:
+Kindle OK—use sepia mode, brightness ≤15%.
+
+[2026-06-01 18:30] Rohan (member-initiated):
+If I hit 6h45m sleep this month, should we expect any visible change in HRV baseline or reaction-time micro-checks?
+
+[2026-06-01 18:42] Advik (Performance Scientist):
+Likely yes—a modest HRV uptick (2–4 ms) and slightly faster reaction times. We’ll compare your June resilience snapshot (HRV baseline, sleep avg, stress scores) and micro-check results to May.
+
+[2026-06-02 07:45] Rachel (PT):
+BI-WEEKLY EXERCISE UPDATE – PROGRAMME E v1.3
+-  Kettlebell snatch load +2 kg (now 20 kg)
+-  Swap hill sprints → stair sprints if raining
+-  Add suitcase carry finisher 2×40 m for core
+
+[2026-06-02 07:59] Rohan:
+Suitcase carry back—fun!
+
+[2026-06-03 10:15] Rohan (member-initiated):
+For cognitive: can we fix CNS testing to mid-morning, no caffeine pre-test, to keep April, July, October comparable?
+
+[2026-06-03 10:28] Neel (Concierge Lead):
+Done—standardized to 10:00–11:00, zero caffeine before testing. I’ll annotate this on your testing calendar and dashboard.
+
+[2026-06-03 21:05] Carla (Nutritionist):
+Chef asked about “cold-soak overnight oats” to aid sleep (tryptophan). Approved? 40 g oats + Greek yogurt + tart-cherry.
+
+[2026-06-03 21:14] Rohan:
+Yes, let’s test.
+
+[2026-06-04 06:28] Ruby (Concierge):
+Mini-panel reminder: finger-prick test Fri 12 Jun 08:00 at Elyx office, fasting from 22:00 Thu.
+
+[2026-06-04 06:32] Rohan:
+Locked.
+
+[2026-06-04 18:45] Rohan (member-initiated):
+Can we start a Sunday 08:00 home BP reading as my non-travel baseline and tag travel-week readings separately?
+
+[2026-06-04 18:56] Ruby (Concierge):
+Added weekly home BP reminder and a “travel-week” tag. We’ll display all three: home, travel, and post-red-eye.
+
+[2026-06-05 08:42] Rohan (member-initiated #37):
+Slept 6 h 52 m last night—protocol working 🎉
+
+[2026-06-05 08:50] Advik:
+Great start—keep the streak.
+
+[2026-06-06 09:15] Rohan (member-initiated):
+Does vinegar pre-meal still make sense during mini-panel week, or should we avoid confounders?
+
+[2026-06-06 09:28] Carla (Nutritionist):
+Avoid vinegar within 24 h before fasting labs to keep results clean; otherwise continue as usual for meals that week.
+
+[2026-06-06 20:40] Ruby – WEEKLY CHECK-IN
+-  Exercise adherence 70%
+-  Sleep avg 6 h 38 m (↑30 m vs May)
+Blockers?
+
+[2026-06-06 20:46] Rohan:
+None—kids exams done.
+
+[2026-06-08 06:55] Rohan (member-initiated #38):
+Mild right shoulder pinch on snatches yesterday. Worth backing off?
+
+[2026-06-08 07:04] Rachel:
+Yes—snatch load −4 kg this week; add band-pull-apart warm-up 2×20. Video form Thursday.
+
+[2026-06-09 08:10] Rohan (member-initiated):
+If June sleep improves, do you expect VO₂max to tick up or is sleep more about recovery and cognition?
+
+[2026-06-09 08:24] Advik (Performance Scientist):
+Primarily recovery and cognition, but better sleep supports training quality—indirectly helping VO₂ over weeks. We’ll watch Garmin tests mid/late June.
+
+[2026-06-10 19:18] Carla:
+Saw CGM report; croissant still a spike offender. Swap with overnight oats 3×/week now live.
+
+[2026-06-10 19:24] Rohan:
+Understood.
+
+[2026-06-11 21:50] Ruby:
+Fasting starts 22:00—water only till finger-prick tomorrow. 5-minute appointment.
+
+[2026-06-12 08:12] Nurse (Elyx):
+Sample collected, results Monday.
+
+[2026-06-12 08:45] Rohan (member-initiated #39):
+Coffee now? ☕️
+
+[2026-06-12 08:46] Ruby:
+Yes—go enjoy it 😄
+
+[2026-06-13 09:05] Rohan (member-initiated):
+Mini-panel this close to travel—anything specific I should watch to keep BP and HRV steady on the flight?
+
+[2026-06-13 09:18] Advik (Performance Scientist):
+Yes: 30-min pre-boarding walk, hydrate 500–700 ml, nasal saline, and limit caffeine after 10:00. Sleep mask + earplugs in-flight. We’ll compare post-red-eye HRV/BP to your baseline.
+
+[2026-06-13 17:05] Dr Warren (Physician):
+Mini-panel results:
+-  Fasting glucose 92 mg/dL (Jan 93)
+-  LDL-C 116 mg/dL (↓2)
+-  ApoB 101 mg/dL (↓1)
+-  hs-CRP 1.1 mg/L
+Glucose trending right direction; continue lifestyle, no meds.
+
+[2026-06-13 17:18] Rohan:
+Great.
+
+[2026-06-14 09:30] Ruby:
+Flight SQ26 Tue 16 Jun 01:10 → JFK, return Mon 22 Jun. Hotel gym has dumbbells 25 kg, rower, TRX. Rachel loading “NYC-E” plan.
+
+[2026-06-14 09:37] Rohan:
+Add wake-up call Wed 06:00 NY time?
+
+[2026-06-14 09:40] Ruby:
+Scheduled.
+
+[2026-06-15 06:22] Advik:
+Pre-flight HRV 56 ms (best yet). Let’s protect it: 500 mg vitamin C + 30-min walk pre-boarding, nasal spray on flight.
+
+[2026-06-16 06:10] Rohan (from JFK, UTC -04:00):
+Red-eye rough—only 3 h sleep.
+
+[2026-06-16 06:16] Advik:
+Take Day-1 recovery: 20-min walk Central Park, 15-min sauna if hotel has. No hard workout.
+
+[2026-06-17 08:25] Rohan (member-initiated):
+Post-red-eye reaction-time micro-check felt slower. Can we flag these instances in the June resilience snapshot?
+
+[2026-06-17 08:38] Neel (Concierge Lead):
+Yes—annotating reaction-time outliers with “post-red-eye” tag and overlaying sleep/HRV for context.
+
+[2026-06-17 21:12] Rohan (member-initiated #40):
+Client dinner was steakhouse—ate ribeye + glass red wine. Glucose 138 mg/dL post-meal (Libre App capillary check). Acceptable?
+
+[2026-06-17 21:25] Carla:
+100. Confirm?
+
+[2026-06-27 06:54] Rohan:
+Confirmed.
+
+[2026-06-28 08:30] Ruby – WEEKLY CHECK-IN
+-  Exercise adherence 64% (deload)
+-  Sleep avg 6 h 34 m (recovering)
+-  HRV baseline back to 53 ms
+Any friction?
+
+[2026-06-28 08:38] Rohan:
+None—good momentum.
+
+[2026-06-29 10:20] Rohan (member-initiated):
+For July’s full panel, can we include CNS on the same day and keep the “no caffeine pre-test” rule?
+
+[2026-06-29 10:32] Neel (Concierge Lead):
+Done—CNS scheduled mid-morning on panel day; caffeine-free tagged.
+
+[2026-06-29 19:25] Neel – MONTH-END EXECUTIVE SUMMARY (text + deck link):
+1. Quick Biomarkers (12 Jun mini vs Apr)
+   – Fasting glucose 92 mg/dL (−2)
+   – LDL-C 116 mg/dL (−2) ApoB 101 mg/dL (−1)
+2. Performance
+   – HRV dipped to 40 ms travel, recovered to 53 ms
+   – VO₂max 51 (+1)
+3. Behaviour
+   – Zone-2 138 min avg (travel drag)
+   – Sleep 6 h 29 m avg (+21 m vs May)
+4. Staff Metrics (June)
+   – Physician 4.2 h Coach/PT 6.0 h Concierge 5.1 h
+5. July Focus
+   a. Resume full training loads (Programme F v1.0 launches 5 Jul)
+   b. Sleep ≥6 h 45 m sustained
+   c. July 18 full panel → lipid & CT review
+Feedback welcome.
+
+[2026-06-29 19:40] Neel – MONTH-END SUCCESS METRICS (June Detailed):
+- VO₂max: Garmin VO₂max recorded at 51. We will monitor this weekly.
+- Biological Age (TruAge): Baseline sample collected. Results pending, will establish baseline for long-term tracking.
+- Blood Panel Markers: ApoB level recorded at 101 mg/dL, maintaining near-optimal improvements. hs-CRP (inflammatory marker) remains slightly elevated. Coronary Calcium Score of 0 is an excellent result.
+- Blood Pressure: Average monthly reading recorded at 127/84 mmHg. This is high-normal and will be monitored.
+- Cognitive Assessment: Cognitive Index Score recorded at 101. This aligns with the Q1 baseline CNS Vital Signs test, providing a benchmark for your June 2026 goal.
+- Sleep Quality: Garmin data shows an average of 6.5 hours, a solid improvement compared to the early months of the year.
+- Stress Resilience: Garmin HRV average was 53 ms in June, consistent with April and March levels. We are now adding a subjective self-assessment score to get a fuller picture
+
+[2026-06-29 19:32] Rohan:
+Looks excellent. Thank you team—ready for Q3 push.
+
+[2026-06-30 07:05] Rachel:
+Preview: Programme F v1.0 teaser—trap-bar deadlift returns! Details Friday.
+
+[2026-06-30 07:08] Rohan:
+Can’t wait 💪
+
+[2026-07-01 07:20] Ruby (Concierge)
+Weekly overview:
+-  Fri 02 Jul – 07:00 Trainerize strength (Programme F v1.0 begins)
+-  Sun 04 Jul – Flight SQ856 SIN→HKG 07:30 (return Wed 07 Jul 23:10)
+-  Mon 18 Jul – Full diagnostic panel + CT 07:30 (fasting)
+Let me know questions.
+
+[2026-07-01 07:34] Rohan (member-initiated #42)
+Trap-bar DL starting weight? Been a while.
+
+[2026-07-01 07:40] Rachel (PT)
+Start 80 kg (≈65%% 1RM) 3×5. Video 1st set for feedback.
+
+[2026-07-01 10:15] Rohan (member-initiated):
+For July labs, can we standardize CNS testing mid-morning and no caffeine pre-test again? Want maximum comparability with April.
+
+[2026-07-01 10:28] Neel (Concierge Lead):
+Yes—CNS locked for mid-morning, “no caffeine pre-test” tagged on your calendar and dashboard.
+
+[2026-07-01 20:10] Advik (Performance Scientist)
+June sleep avg 6 h 34 m ↑; HRV baseline 55 ms 👍.  Goal July sleep ≥6 h 45 m.  Today’s readiness good—load is green.
+
+[2026-07-02 06:58] Rohan (member-initiated #43)
+Overnight oats felt heavy pre-lift. Swap to banana?
+
+[2026-07-02 07:06] Carla (Nutritionist)
+Sure—banana + 15 g whey = lighter carb-protein combo. Keep oats on non-lift days.
+
+[2026-07-02 09:02] Rachel
+Nice form on DL—hips and spine neutral. Next session add +5 kg.
+
+[2026-07-02 18:25] Rohan (member-initiated):
+If my HRV drops on the HK trip but sleep is decent, do we still scale intensity? Just clarifying the threshold.
+
+[2026-07-02 18:40] Advik (Performance Scientist):
+Yes—if HRV drops >10% below your monthly baseline or sleep 100 at 18 Jul panel, add 2 g phytosterols supplement.
+  c. Pilot Oura Ring Gen4 for sleep staging (Advik to ship).
+5. Internal: staff-hours Q2 — physician 6.8 h, coach/PT 9.4 h, concierge 8.1 h (within SLA).
+Next review 15 Oct.
+
+[2026-07-14 18:06] Rohan
+Solid call—excited to see labs Saturday.
+
+Week 30 (15 – 21 Jul) – Full Diagnostic Panel
+[2026-07-15 06:40] Rachel – BI-WEEKLY EXERCISE UPDATE – PROGRAMME F v1.1
+-  Trap-bar DL +5 kg (now 90 kg)
+-  Add Bulgarian split-squat 3×8/side
+-  Stride block holds at 8×20 s
+-  Hotel-split micro-workout (8 min) autosends on travel tag
+
+[2026-07-15 06:55] Rohan
+Bulgarian split-squats… torture accepted.
+
+[2026-07-16 08:25] Rohan (member-initiated):
+For panel day, okay to do the reaction-time micro-check pre-blood draw or wait until after?
+
+[2026-07-16 08:38] Neel (Concierge Lead):
+Please do it after the panel to keep the morning pre-test routine simple and consistent (water only, no caffeine).
+
+[2026-07-16 21:50] Ruby
+Fasting starts 22:00 tomorrow. Panel Saturday 07:30, CT 09:00. Bring ID & water.
+
+[2026-07-17 09:05] Rohan (member-initiated):
+Should I pause vinegar use the day before labs like we did for the mini-panel?
+
+[2026-07-17 09:18] Carla (Nutritionist):
+Yes—skip vinegar within 24 h before fasting labs to avoid confounders. Resume afterward.
+
+[2026-07-17 22:02] Rohan (member-initiated #47)
+Can I sip electrolytes after blood draw but before CT?
+
+[2026-07-17 22:07] Dr Warren
+Yes—clear electrolyte drink (no sugar) fine post-bloods.
+
+[2026-07-18 07:28] Ruby
+Lab & CT underway. Text once done.
+
+[2026-07-18 11:20] Rohan
+Finished. CT tech said images clean.
+
+[2026-07-19 09:15] Rohan (member-initiated):
+When July lab deck is ready, can ApoB/LDL, OGTT, hs-CRP sit alongside VO₂max, HRV, sleep, CNS scores, and BP? Single-page dashboard helps.
+
+[2026-07-19 09:28] Neel (Concierge Lead):
+Absolutely—July summary will have a unified dashboard and section-by-section drill-down.
+
+[2026-07-19 17:05] Dr Warren – FULL PANEL RESULTS (key values)
+1. General Bloods
+  -  Hb 15.1 g/dL, WBC 5.9×10⁹/L, Platelets 240×10⁹/L
+  -  Liver (ALT 22 U/L), Kidney (eGFR 98 mL/min) — normal
+2. Cardio-Metabolic
+  -  ApoB 97 mg/dL (-4)
+  -  LDL-C 112 mg/dL (-4)
+  -  Lp(a) 18 mg/dL (low)
+  -  Triglycerides 94 mg/dL
+  -  Fasting glucose 90 mg/dL, Insulin 7 µIU/mL, HOMA-IR 1.6
+  -  OGTT 2-h 118 mg/dL (improved)
+3. Inflammatory & Hormonal
+  -  hs-CRP 0.9 mg/L
+  -  Cortisol 08:00 14 µg/dL (normal)
+  -  TSH 1.5 µIU/mL; Free T4 1.2 ng/dL
+4. Micronutrients
+  -  Vit D 42 ng/mL (goal 50); Mg  RBC 5.0 mg/dL (good); Omega-3 Index 8.2%
+5. Imaging
+  -  Coronary calcium score 0 (repeat 5 yrs)
+Everything trending right way. No statin; start Vit D 2000 IU/day. Phytosterols not required (ApoB <100). We’ll debrief Monday.
+
+[2026-07-20 09:05] Rohan (member-initiated):
+Given ApoB now <100 and OGTT improved, would you change any training or nutrition priorities for Q3?
+
+[2026-07-20 09:20] Dr Warren (Physician):
+Stay the course: maintain lipid-friendly diet, keep Zone-2 volume, add structured tempos after ECG review, and push sleep toward 7 h. We’ll recheck Vit D and A1c in October.
+
+[2026-07-24 20:20] Ruby
+Flight KE644 Sat 25 Jul 23:30 → ICN. Hotel gym dumbbells 20 kg, bike. Calendar updated. Melatonin packed?
+
+[2026-07-24 20:26] Rohan
+Yes—all set.
+
+[2026-07-26 08:10] Advik (from Seoul, UTC +09:00):
+HRV 45 ms (travel dip). Swap today’s PM strength → 20-min Zone-1 hotel bike.
+
+[2026-07-26 08:18] Rohan
+Understood.
+
+[2026-07-27 08:35] Rohan (member-initiated):
+Let’s keep “post-red-eye” tags on BP and reaction-time during this Seoul trip as well.
+
+[2026-07-27 08:46] Ruby (Concierge):
+Done—tags are active. We’ll compare July HK vs July Seoul patterns.
+
+[2026-07-27 22:30] Carla
+K-BBQ tonight: stick to lean cuts + lettuce wraps; take NAC 600 mg pre-bed.
+
+[2026-07-28 07:42] Ruby
+Mid-trip stats: workouts 1/3, sleep avg 5 h 55 m. Need anything?
+
+[2026-07-28 07:50] Rohan
+All good—back-to-back dinners tough.
+
+[2026-07-29 10:05] Rohan (member-initiated):
+Can July month-end include a VO₂ trend note (standard route vs track test), so I know which is more reliable for me?
+
+[2026-07-29 10:18] Advik (Performance Scientist):
+Yes—we’ll show both with conditions noted (temp/time). If they align closely, we’ll keep both; if not, we’ll lean on the more stable source.
+
+[2026-07-29 18:55] Neel (Concierge Lead – mid-quarter note)
+Quick shout: physician 2.1 h, coach/PT 3.4 h so far July. Within budget. Service feel okay?
+
+[2026-07-29 19:01] Rohan
+Top-notch as always.
+
+[2026-07-30 14:02] Rachel – BI-WEEKLY EXERCISE UPDATE – PROGRAMME F v1.2
+-  Add rope-climb regression (seated towel pulls) once/week for grip
+-  Stride block stays 8×20 s; option replace w/ 4×200 m run if track available
+-  Seoul variant auto-expires Monday
+
+[2026-07-30 14:15] Rohan
+Seated pulls sound doable in hotel.
+
+[2026-07-31 18:05] Ruby – MONTH-END SUMMARY (voice note transcribed)
+1. Biomarkers (18 Jul panel vs Apr)
+  -  ApoB 102 → 97 mg/dL (-5)
+  -  OGTT 124 → 118 mg/dL (-6)
+  -  Vit D 42 ng/mL (↑) goal 50 by Oct
+2. Performance
+  -  VO₂max 51 (+1)
+  -  HRV baseline 56 ms (best to date)
+3. Behaviour
+  -  Sleep 6 h 47 m avg (goal met)
+  -  Travel workout adherence 48% (just shy) – micro-split rollout seems promising.
+4. Staff hours July
+  Physician 3.0 h | Coach/PT 5.2 h | Concierge 5.5 h
+5. August focus
+  a. Sleep ≥7 h target
+  b. Programme F v1.2 progression (strength phase)
+  c. Continue Vit D supplementation; re-test Oct panel
+Let us know questions!
+
+[2026-07-31 18:20] Neel – MONTH-END SUCCESS METRICS (July Detailed):
+- VO₂max: Garmin VO₂max recorded at 51. We will monitor this weekly.
+- Biological Age (TruAge): Baseline sample collected. Results pending, will establish baseline for long-term tracking.
+- Blood Panel Markers: ApoB level improved to 97 mg/dL, showing significant progress from the January baseline of 118 mg/dL. hs-CRP (inflammatory marker) remains slightly elevated. Coronary Calcium Score of 0 is an excellent result.
+- Blood Pressure: Average monthly reading recorded at 126/83 mmHg. This is high-normal and will be monitored.
+- Cognitive Assessment: Cognitive Index Score recorded at 102, reflecting gradual improvement.
+- Sleep Quality: Garmin data shows an average of 6.8 hours, matching the best results to date.
+- Stress Resilience: Garmin HRV average was 56 ms in July, highlighting strong resilience gains compared to earlier months. We are now adding a subjective self-assessment score to get a fuller picture.
+
+[2026-07-31 18:12] Rohan
+Great month, team—numbers keep trending up. On to August!
+
+[2026-08-01 07:20] Ruby (Concierge):
+Welcome back, Rohan! Recovery protocol for the weekend:
+-  20-min sauna tonight
+-  Lights-out 22:15
+-  Sunday 40-min Zone-1 walk w/ family
+Let me know friction.
+
+[2026-08-01 07:33] Rohan (member-initiated #49):
+Seoul micro-splits felt good. Keep them for future trips?
+
+[2026-08-01 07:40] Rachel (PT):
+Definitely. I’ll store the template and push it automatically when the calendar is tagged “dense-travel”.
+
+[2026-08-01 18:25] Rohan (member-initiated):
+For August, can we keep a weekly “cognitive + resilience” snapshot (reaction-time, HRV vs baseline, sleep avg, stress score) so I can adjust training early?
+
+[2026-08-01 18:38] Neel (Concierge Lead):
+Yes—adding a Friday snapshot rollup with a green/amber/red training cue. We’ll compare week-over-week and flag outliers.
+
+[2026-08-02 08:50] Rohan (member-initiated):
+Do we need to adjust VO₂ targets if I’m prioritizing strength this month?
+
+[2026-08-02 09:05] Advik (Performance Scientist):
+We’ll maintain VO₂ with 2×20 min Zone-2 or 3 micro-splits weekly. Strength block stays primary; VO₂ progression returns next cycle.
+
+[2026-08-02 18:45] Ruby – WEEKLY CHECK-IN
+-  Exercise adherence 52% (Seoul)
+-  Sleep avg 6 h 11 m (travel dip)
+-  HRV baseline 52 ms
+Any blockers?
+
+[2026-08-02 18:51] Rohan:
+Left ankle still stiff; floss video isn’t loading on hotel Wi-Fi.
+
+[2026-08-02 18:56] Rachel:
+Uploading smaller MP4 now; should stream fine. Ping me if buffering.
+
+[2026-08-03 08:05] Advik (Performance Scientist):
+New Oura Ring Gen-4 arrived at concierge desk. Courier delivering 19:00. Evening setup call 19:30?
+
+[2026-08-03 08:09] Rohan (member-initiated #50):
+Yes, add to calendar. Need iOS app beta?
+
+[2026-08-03 08:12] Advik:
+Installed TestFlight link already in email—good to go.
+
+[2026-08-03 19:45] Rohan (member-initiated):
+With Oura + Garmin together, which sleep metrics do you trust most for my recovery cue—total sleep, deep sleep, or restorative time?
+
+[2026-08-03 19:58] Advik (Performance Scientist):
+For you: prioritize total sleep duration, resting HR/HRV trend, and Oura Restorative Time. Deep-sleep staging is informative, but we’ll anchor decisions on duration + HRV.
+
+[2026-08-04 07:55] Carla (Nutritionist):
+Chef’s request: swap Monday salmon → mackerel (higher Vit D to hit 50 ng/mL). Approved?
+
+[2026-08-04 08:01] Rohan:
+Approved.
+
+[2026-08-05 06:48] Rachel – BI-WEEKLY EXERCISE UPDATE – PROGRAMME F v1.3
+Changes (strength phase week 3):
+1. Trap-bar DL 95 kg 3×5
+2. Bulgarian split-squat tempo 3-1-X, load +2 kg DBs
+3. Add shuttle-run finisher 4×40 m (speed endurance)
+Hotel micro-split template unchanged.
+
+[2026-08-05 07:02] Rohan:
+Copy—DL 95 kg it is.
+
+[2026-08-05 19:10] Rohan (member-initiated):
+BP seems steadier at home lately. Can August month-end include home vs travel vs post-red-eye BP averages?
+
+[2026-08-05 19:22] Ruby (Concierge):
+Yes—adding those averages and a travel delta note to your August summary.
+
+[2026-08-06 21:10] Rohan (member-initiated #51):
+Oura showing “Restorative Time” metric—what’s good range?
+
+[2026-08-06 21:22] Advik:
+Aim ≥2.5 h/night. You logged 2 h 02 m last night; glycine + tart-cherry combo should bump it ~15%.
+
+Week 33 (7 – 13 Aug) – Jakarta Quick Hop
+[2026-08-07 08:15] Ruby:
+Jakarta day-trip Tue 10 Aug confirmed: GA835 07:55 out / 19:25 back. Rachel scheduling micro-split AM 05:45 pre-airport.
+
+[2026-08-07 08:21] Rohan:
+Tight but doable.
+
+[2026-08-07 18:35] Rohan (member-initiated):
+If travel HRV drops but subjective stress is low, should I still follow amber training cue?
+
+[2026-08-07 18:48] Advik (Performance Scientist):
+Yes—HRV < -10% vs baseline or sleep <6 h triggers amber regardless. We’ll avoid hidden fatigue; resume load when HRV/sleep normalize.
+
+[2026-08-08 19:40] Carla:
+Weekend BBQ? If grilling, remember NAC 600 mg + mixed-greens side; goal keep hs-CRP <1 mg/L trend.
+
+[2026-08-08 19:55] Rohan (member-initiated):
+Noted. For hs-CRP, are we expecting any further drop by October with current changes?
+
+[2026-08-08 20:08] Carla (Nutritionist):
+Likely modest further improvement if sleep ≥7 h avg + Omega-3s stay consistent. October panel will quantify.
+
+[2026-08-09 09:20] Rohan (member-initiated):
+Can August include a VO₂ maintenance note so I don’t over- or under-do it during the strength phase?
+
+[2026-08-09 09:32] Advik (Performance Scientist):
+Adding a “VO₂ maintenance” panel to your monthly summary with Zone-2 minutes, standardized test notes, and a simple green/amber cue.
+
+[2026-08-10 05:35] Rohan (member-initiated):
+Tagged a “post-red-eye reaction-time” micro-check for SFO too?
+
+[2026-08-10 05:46] Ruby (Concierge):
+Yes—already scheduled for the morning after arrival.
+
+[2026-08-12 11:30] Rohan (member-initiated):
+Any quick protocol to preserve sleep during expo days—lots of late events.
+
+[2026-08-12 11:44] Advik (Performance Scientist):
+Yes: caffeine cutoff 8 h pre-bed, 10-min evening walk, 3 g glycine, warm shower, blue-light blockers 90 min pre-bed. Aim lights-out by 22:30 local.
+
+[2026-08-15 07:45] Rohan (member-initiated):
+If sleep averages 6 h 45 m this month, do we expect any cognitive micro-check improvement?
+
+[2026-08-15 08:00] Neel (Concierge Lead):
+Typically modest improvement in reaction-time variance. We’ll highlight any gains in the resilience snapshot.
+
+[2026-08-16 08:04] Carla:
+US breakfast tip: grab “Egg White Grill” from hotel cafe, skip pancakes. Vinegar water first.
+
+[2026-08-17 07:40] Rachel – BI-WEEKLY EXERCISE UPDATE – PROGRAMME F v1.4
+Travel micro-split for SFO:
+-  AM 6-min mobility + 2×20 push-ups
+-  PM 12-min kettlebell complex (swing, goblet squat, press)
+Counts as 1 strength session if both done in day.
+
+[2026-08-17 07:52] Rohan:
+Completed AM block—felt good.
+
+[2026-08-18 21:05] Rohan (member-initiated #54):
+Conference dinner heavy pasta—glucose 165 mg/dL peak. Too high?
+
+[2026-08-18 21:15] Carla:
+Slightly above target. Tomorrow cut pasta half, add salad first, 10-min post-meal walk; expect <145 mg/dL.
+
+[2026-08-19 10:10] Rohan (member-initiated):
+For the SFO week, can we get a daily micro-summary that bundles HRV vs baseline, sleep hours, stress score, and a 1-line training cue?
+
+[2026-08-19 10:24] Ruby (Concierge):
+Done—will post mornings at 07:00 local with a clear cue (green/amber/red).
+
+[2026-08-19 18:40] Ruby:
+Mid-SFO stats: micro-split compliance 3/4 days (75%), sleep avg 6 h 15 m, HRV 42 ms. Anything you need?
+
+[2026-08-19 18:46] Rohan:
+All good—long expo days but manageable.
+
+[2026-08-20 12:22] Dr Warren:
+Saw CGM spike; one isolated 165 mg/dL not worrisome. Continue protocol, re-check HbA1c October panel.
+
+Week 35 (21 – 27 Aug) – Home Deload & Strength Push
+[2026-08-22 08:18] Ruby:
+Welcome home. Recovery: sauna 20 min tonight, tart-cherry juice 100 ml, in-bed 21:45.
+
+[2026-08-22 08:23] Rohan:
+Copy.
+
+[2026-08-22 19:05] Rohan (member-initiated):
+Resting BP trending lower at home this week—can the dashboard show a 3-month moving average line for BP?
+
+[2026-08-22 19:18] Neel (Concierge Lead):
+Added a 3-month rolling average line and shaded travel windows for context.
+
+[2026-08-23 07:05] Rachel (PT):
+Ankle re-test: pain ≤1/10 during body-weight squat? Let me know; if clear we resume plyos Wednesday.
+
+[2026-08-23 07:17] Rohan (member-initiated #55):
+Zero pain during squat, 1/10 on hops.
+
+[2026-08-23 07:24] Rachel:
+Great—plyos back Wednesday, start 2×20-cm hops only.
+
+[2026-08-24 06:55] Advik:
+Sleep last two nights 7 h 02 m / 6 h 58 m—first 7-hour streak 🙌. HRV rebound 55 ms. Keep caffeine cutoff 11:30.
+
+[2026-08-24 19:15] Rohan (member-initiated):
+For cognitive tracking, okay to schedule the next CNS test mid-morning and caffeine-free again in October?
+
+[2026-08-24 19:28] Neel (Concierge Lead):
+Confirmed—October CNS is set mid-morning with “no caffeine pre-test” tagged.
+
+[2026-08-25 19:30] Carla:
+Chef feedback: cooled rice salad twice last week well-received. Continue? Helps resistant-starch goal.
+
+[2026-08-25 19:36] Rohan:
+Yes—keep twice/week.
+
+[2026-08-26 12:14] Neel (internal + Rohan):
+August staff-hour tally so far: physician 1.9 h, coach/PT 4.0 h, concierge 4.3 h. On track.
+
+[2026-08-26 12:20] Rohan:
+Thanks.
+
+[2026-08-27 06:48] Rachel – BI-WEEKLY EXERCISE UPDATE – PROGRAMME F v1.5
+-  Trap-bar DL 100 kg 3×5 (double-body-weight milestone next month)
+-  Add 50-cal row finisher time-trial (record PR)
+-  Plyos full volume if ankle pain ≤2/10
+
+[2026-08-27 07:01] Rohan:
+Let’s chase that PR.
+
+Week 36 (28 – 31 Aug) – Month Close
+[2026-08-28 09:20] Rohan (member-initiated):
+Can the August summary include VO₂ maintenance status, BP breakdown (home vs travel vs post-red-eye), and a cognitive + resilience rollup?
+
+[2026-08-28 09:35] Neel (Concierge Lead):
+Yes—those three sections will be included with clear green/amber cues and month-over-month comparisons.
+
+[2026-08-29 09:10] Ruby – WEEKLY CHECK-IN
+-  Exercise adherence 76% (post-travel)
+-  Sleep avg 6 h 52 m (almost goal 7 h)
+-  HRV baseline 56 ms
+Any blockers?
+
+[2026-08-29 09:17] Rohan:
+None—good rhythm.
+
+[2026-08-30 18:30] Rohan (member-initiated #56):
+Trap-bar PR 100 kg felt solid—video sent. Form OK?
+
+[2026-08-30 18:42] Rachel:
+Form excellent—hips lockout clean. Next cycle aim 105 kg.
+
+[2026-08-31 18:05] Ruby – MONTH-END EXECUTIVE SUMMARY (text + deck link)
+1. Biometrics
+   – ApoB stable 97 mg/dL (no panel due)
+   – HRV baseline ↑ +1 ms (56 ms)
+   – Average sleep 6 h 49 m (best month YTD)
+2. Performance
+   – Trap-bar DL 100 kg (10% ↑ since July)
+   – VO₂max steady 51
+3. Behaviour
+   – Travel micro-split adherence 71% (SFO)
+   – Post-dinner walk compliance 88%
+4. Upcoming
+   a. August → October training: strength phase peak then shift to VO₂ block
+   b. October 12 panel (Vit D, HbA1c, lipids)
+   c. Q3 Review 15 Oct (with full team)
+5. Staff Hours (Aug)
+   Physician 3.1 h | Coach/PT 5.6 h | Concierge 5.0 h (under SLA)
+Let us know anything to dive deeper.
+
+[2026-08-31 18:18] Neel – MONTH-END SUCCESS METRICS (August Detailed):
+- VO₂max: Garmin VO₂max recorded at 51. We will monitor this weekly.
+- Biological Age (TruAge): Baseline sample collected. Results pending, will establish baseline for long-term tracking.
+- Blood Panel Markers: ApoB level maintained at 97 mg/dL, sustaining the strong improvement from the January baseline of 118 mg/dL. hs-CRP (inflammatory marker) remains slightly elevated. Coronary Calcium Score of 0 is an excellent result.
+- Blood Pressure: Average monthly reading recorded at 124/81 mmHg, the most favorable reading so far this year.
+- Cognitive Assessment: Cognitive Index Score recorded at 103, the highest to date, showing steady upward progress.
+- Sleep Quality: Garmin data shows an average of 6.8 hours, sustaining the strong results seen in July.
+
+Stress Resilience: Garmin HRV average was 56 ms in August, maintaining resilience gains. We are now adding a subjective self-assessment score to get a fuller picture.
+[2026-08-31 18:12] Rohan:
+Great work team—sleep win feels huge. Let’s keep momentum into Sept!
