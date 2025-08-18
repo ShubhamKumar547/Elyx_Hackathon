@@ -1,5 +1,6 @@
 # Neural Nomad — Elyx Life Hackathon
-
+Team Members: 1.Shubham Kumar 2.Aditya Padhi
+         
 ## Demo Login Credentials
 
 **Username:** alex_admin  
@@ -95,6 +96,6 @@ npm run dev
 ## Team
 
 Team Neural Nomad — Elyx Life Hackathon 2025
-Members: 1.Shubham Kumar 2.Aditya Padhi
+
 
 ---
