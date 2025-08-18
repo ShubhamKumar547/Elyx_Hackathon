@@ -20,7 +20,7 @@ A web app that visualizes a member’s health journey and operationalizes multid
 ## Demo Working (Screenshots)
 
 <p align="center">
-  <img src="frontend/src/assets/snapshots/Screenshot 2025-08-18 003843.png" width="400" />
+  
   <img src="frontend/src/assets/snapshots/Screenshot 2025-08-18 005758.png" width="400" />
   <img src="frontend/src/assets/snapshots/Screenshot 2025-08-18 012759.png" width="400" />
   <img src="frontend/src/assets/snapshots/Screenshot 2025-08-18 052712.png" width="400" />
@@ -50,11 +50,10 @@ A web app that visualizes a member’s health journey and operationalizes multid
 
 ## Tech Stack
 
-- **Frontend:** React, Vite, TailwindCSS, Headless UI, Zustand
+- **Frontend:** React, Vite,HTML,CSS,JS
 - **Backend:** Node.js (Express)
-- **Database:** JSON files (demo)
-- **Packaging:** Docker, docker-compose (optional)
-- **Auth:** Simple session/localStorage (demo)
+- **Database:** JSON files (demo) +local browser storage
+- **Auth:** JWT token Based authentication with userid and password
 
 ## How to Run
 
